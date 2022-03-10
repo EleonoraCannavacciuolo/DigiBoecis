@@ -1,0 +1,2259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg n="4" xml:id="lg4">
+               <l n="28" xml:id="l28">
+                  <w xml:id="l28w1">Donz</w>
+                  <w xml:id="l28w2">fo</w>
+                  <w xml:id="l28w3">boecis</w>
+                  <w xml:id="l28w4">corps</w>
+                  <w xml:id="l28w5">ag</w>
+                  <w xml:id="l28w6">bo</w>
+                  <w xml:id="l28w7" ana="#aggl-s">e</w>
+                  <w xml:id="l28w8">pro</w></l>
+               <lb/>
+               <l n="29" xml:id="l29">
+                  <w xml:id="l29w1">cui</w>
+                  <w xml:id="l29w2">tan</w>
+                  <w xml:id="l29w3">amet</w>
+                  <w xml:id="l29w4">torquator</w>
+                  <w xml:id="l29w5">mallios</w></l>
+               <l n="30" xml:id="l30">
+                  <w xml:id="l30w1" ana="#aggl-s-unc">de</w>
+                  <w xml:id="l30w2">sapiencia</w>
+                  <w xml:id="l30w3" ana="#aggl-s-unc">no</w>
+                  <w xml:id="l30w4">fo</w>
+                  <w xml:id="l30w5">trop</w>
+                  <w xml:id="l30w6">nuallos</w></l>
+               <lb/>
+               <l n="31" xml:id="l31">
+                  <w xml:id="l31w1">tant</w>
+                  <w xml:id="l31w2">en</w>
+                  <w xml:id="l31w3">retenc</w>
+                  <w xml:id="l31w4">que</w>
+                  <w xml:id="l31w5" ana="#aggl-s">de</w>
+                  <w xml:id="l31w6">tòt</w>
+                  <w xml:id="l31w7" ana="#aggl-s-unc">non</w>
+                  <w xml:id="l31w8">fo</w>
+                  <w xml:id="l31w9">blos</w></l>
+               <l n="32" xml:id="l32">
+                  <w xml:id="l32w1">tan</w>
+                  <w xml:id="l32w2">bo</w>
+                  <w xml:id="l32w3">essemple</w>
+                  <w xml:id="l32w4">en</w>
+                  <w xml:id="l32w5">laiset</w>
+                  <lb/>
+                  <w xml:id="l32w6">entre</w>
+                  <w xml:id="l32w7">nos</w></l>
+               <l n="33" xml:id="l33">
+                  <w xml:id="l33w1">no</w>
+                  <w xml:id="l33w2">cuid</w>
+                  <w xml:id="l33w3" ana="#elis">qu</w>
+                  <w xml:id="l33w4">e</w>
+                  <w xml:id="l33w5">Roma</w>
+                  <w xml:id="l33w6">om</w>
+                  <w xml:id="l33w7" ana="#aggl-s-unc">de</w>
+                  <w xml:id="l33w8" ana="#aggl-s-unc">so</w>
+                  <w xml:id="l33w9">saber</w>
+                  <w xml:id="l33w10">fos</w></l>
+            </lg>
+            <lg n="5" xml:id="lg5">
+               <l n="34" xml:id="l34">
+                  <w xml:id="l34w1">Còms</w>
+                  <w xml:id="l34w2">fo</w>
+                  <w xml:id="l34w3">de</w>
+                  <w xml:id="l34w4">roma</w>
+                  <lb/>
+                  <w xml:id="l34w5">e</w>
+                  <w xml:id="l34w6">ac</w>
+                  <w xml:id="l34w7" ana="#aggl-s">ta</w>
+                  <w xml:id="l34w8">gran</w>
+                  <w xml:id="l34w9"><c ana="#lram-c">u</c>alor</w></l>
+               <l n="35" xml:id="l35">
+                  <w xml:id="l35w1">aprob</w>
+                  <w xml:id="l35w2">mallio</w>
+                  <w xml:id="l35w3" ana="#aggl-s">lo</w>
+                  <w xml:id="l35w4">rei</w>
+                  <w xml:id="l35w5">emperador</w></l>
+               <l n="36" xml:id="l36">
+                  <w xml:id="l36w1">el</w>
+                  <w xml:id="l36w2">era</w>
+                  <w xml:id="l36w3" ana="#encl">l</w>
+                  <w xml:id="l36w4">meler</w>
+                  <lb/>
+                  <w xml:id="l36w5" ana="#aggl-s">de</w>
+                  <w xml:id="l36w6">tota</w>
+                  <w xml:id="l36w7">la</w>
+                  <w xml:id="l36w8">onor</w></l>
+               <l n="37" xml:id="l37">
+                  <w xml:id="l37w1" ana="#aggl-s">de</w>
+                  <w xml:id="l37w2">tòt</w>
+                  <w xml:id="l37w3" ana="#elis">l</w>
+                  <w xml:id="l37w4">emperi</w>
+                  <w xml:id="l37w5">l</w>
+                  <w xml:id="l37w6" ana="#encl">tenien</w>
+                  <w xml:id="l37w7">per</w>
+                  <w xml:id="l37w8">senor</w></l>
+               <l n="38" xml:id="l38">
+                  <w xml:id="l38w1">mas</w>
+                  <w xml:id="l38w2" ana="#elis">d</w>
+                  <w xml:id="l38w3">una</w>
+                  <w xml:id="l38w4">cau<lb break="no"/>sa</w>
+                  <w xml:id="l38w5">u</w>
+                  <w xml:id="l38w6">nom</w>
+                  <w xml:id="l38w7">a<c ana="#lram-c">u</c>ia</w>
+                  <w xml:id="l38w8">genzor</w></l>
+               <l n="39" xml:id="l39">
+                  <w xml:id="l39w1">de</w>
+                  <w xml:id="l39w2">sapiencia</w>
+                  <w xml:id="l39w3" ana="#elis">l</w>
+                  <w xml:id="l39w4" ana="#degl">a<space type="#degl"/>pella<c ana="#lram-c"
+                     >u</c>en</w>
+                  <w xml:id="l39w5">doctor</w></l>
+            </lg>
+         </div>
+         <div>
+            <lg n="6" xml:id="lg6">
+               <l n="40" xml:id="l40">
+                  <w xml:id="l40w1">Quan</w>
+                  <lb/>
+                  <w xml:id="l40w2"><c ana="#lram-c">u</c>eng</w>
+                  <w xml:id="l40w3">la</w>
+                  <w xml:id="l40w4">fis</w>
+                  <w xml:id="l40w5">mallio</w>
+                  <w xml:id="l40w6">torquator</w></l>
+               <l n="41" xml:id="l41">
+                  <w xml:id="l41w1">donc</w>
+                  <w xml:id="l41w2"><c ana="#lram-c">u</c>enc</w>
+                  <w xml:id="l41w3">boeci</w>
+                  <w xml:id="l41w4" ana="#aggl-s">ta</w>
+                  <w xml:id="l41w5">gran</w>
+                  <w xml:id="l41w6">dolors</w>
+                  <lb/>
+                  <w xml:id="l41w7">a</w>
+                  <w xml:id="l41w8" ana="#aggl-s #encl">l</w>
+                  <w xml:id="l41w9">cor</w></l>
+               <l n="42" xml:id="l42">
+                  <w xml:id="l42w1">no</w>
+                  <w xml:id="l42w2">cuid</w>
+                  <w xml:id="l42w3">aprob</w>
+                  <w xml:id="l42w4">altre</w>
+                  <w xml:id="l42w5">dols</w>
+                  <w xml:id="l42w6" ana="#aggl-s">li</w>
+                  <w xml:id="l42w7">demor</w></l>
+            </lg>
+            <lg n="7" xml:id="lg7">
+               <l n="43" xml:id="l43">
+                  <w xml:id="l43w1">morz</w>
+                  <w xml:id="l43w2">fo</w>
+                  <w xml:id="l43w3">mallios</w>
+                  <lb/>
+                  <w xml:id="l43w4">torquator</w>
+                  <w xml:id="l43w5">dunt</w>
+                  <w xml:id="l43w6">eu</w>
+                  <w xml:id="l43w7">dig</w></l>
+               <l n="44" xml:id="l44">
+                  <w xml:id="l44w1">ec</w>
+                  <w xml:id="l44w2"><c ana="#lram-c">u</c>os</w>
+                  <w xml:id="l44w3">e</w>
+                  <w xml:id="l44w4">roma</w>
+                  <w xml:id="l44w5" ana="#elis">l</w>
+                  <w xml:id="l44w6">emperador</w>
+                  <w xml:id="l44w7">teiric</w></l>
+               <lb/>
+               <l n="45" xml:id="l45">
+                  <w xml:id="l45w1">de</w>
+                  <w xml:id="l45w2" ana="#encl">l</w>
+                  <w xml:id="l45w3">fiel</w>
+                  <w xml:id="l45w4">deu</w>
+                  <w xml:id="l45w5" ana="#aggl-s-unc">no</w>
+                  <w xml:id="l45w6"><c ana="#lram-c">u</c>olg</w>
+                  <w xml:id="l45w7">a<c ana="#lram-c">u</c>er</w>
+                  <w xml:id="l45w8">amig</w></l>
+            </lg>
+            <lg n="8" xml:id="lg8">
+               <l n="46" xml:id="l46">
+                  <w xml:id="l46w1">No</w>
+                  <w xml:id="l46w2">credet</w>
+                  <w xml:id="l46w3">deu</w>
+                  <w xml:id="l46w4" ana="#aggl-s-unc">lo</w>
+                  <w xml:id="l46w5">nostre</w>
+                  <lb/><w xml:id="l46w6">creator</w></l>
+               <l n="47" xml:id="l47">
+                  <w xml:id="l47w1">per</w>
+                  <w xml:id="l47w2">zo</w>
+                  <w xml:id="l47w3">no</w>
+                  <w xml:id="l47w4" ana="#encl">l</w>
+                  <w xml:id="l47w5"><c ana="lram-c">u</c>olg</w>
+                  <w xml:id="l47w6">boecis</w>
+                  <w xml:id="l47w7" ana="#aggl-s-unc">a</w>
+                  <w xml:id="l47w8">senor</w></l>
+               <l n="48" xml:id="l48">
+                  <w xml:id="l48w1">ni</w>
+                  <w xml:id="l48w2">gens</w>
+                  <w xml:id="l48w3">de</w>
+                  <w xml:id="l48w4">lui</w>
+                  <w xml:id="l48w5" ana="#aggl-s">no</w>
+                  <w xml:id="l48w6"><c ana="#lram-c">u</c>olg</w>
+                  <lb/>
+                  <w xml:id="l48w7">tener</w>
+                  <w xml:id="l48w8" ana="#encl">s</w>
+                  <w xml:id="l48w9">onor</w></l>
+            </lg>
+         </div>
+         <div>
+            <lg n="9" xml:id="lg9">
+               <l n="49" xml:id="l49">
+                  <w xml:id="l49w1">eu</w>
+                  <w xml:id="l49w2">lo</w>
+                  <w xml:id="l49w3">chastia</w>
+                  <w xml:id="l49w4" ana="#aggl-s">ta</w>
+                  <w xml:id="l49w5">bè</w>
+                  <w xml:id="l49w6">ab</w>
+                  <w xml:id="l49w7">so</w>
+                  <w xml:id="l49w8">sermo</w></l>
+               <l n="50" xml:id="l50">
+                  <w xml:id="l50w1" ana="#aggl-s-unc">e</w>
+                  <w xml:id="l50w2">teiric</w>
+                  <w xml:id="l50w3">col</w>
+                  <w xml:id="l50w4">tot</w>
+                  <lb/>
+                  <w xml:id="l50w5" ana="#aggl-s">e</w>
+                  <w xml:id="l50w6">mal</w>
+                  <w xml:id="l50w7" ana="#aggl-s">sa</w>
+                  <w xml:id="l50w8">razò</w></l>
+               <l n="51" xml:id="l51">
+                  <w xml:id="l51w1">per</w>
+                  <w xml:id="l51w2">grant</w>
+                  <w xml:id="l51w3">e<c ana="#lram-c">u</c>ea</w>
+                  <w xml:id="l51w4" ana="#aggl-s-unc">de</w>
+                  <w xml:id="l51w5">lui</w>
+                  <w xml:id="l51w6"><c ana="#lram-c">u</c>olg</w>
+                  <w xml:id="l51w7">far</w>
+                  <w xml:id="l51w8">fello</w></l>
+               <l n="52" xml:id="l52">
+                  <w xml:id="l52w1">Fez</w>
+                  <w xml:id="l52w2">u</w>
+                  <w xml:id="l52w3">breu</w>
+                  <lb/>
+                  <w xml:id="l52w4">faire</w>
+                  <w xml:id="l52w5"><expan corresp="#ab-lm-pbarr-d">p<ex>er</ex></expan></w>
+                  <w xml:id="l52w6" ana="#aggl-s-unc">gran</w>
+                  <w xml:id="l52w7">decepcio</w></l>
+               <l n="53" xml:id="l53">
+                  <w xml:id="l53w1">e</w>
+                  <w xml:id="l53w2">de</w>
+                  <w xml:id="l53w3">boeci</w>
+                  <w xml:id="l53w4">escriure</w>
+                  <w xml:id="l53w5">fez</w>
+                  <w xml:id="l53w6">lo</w>
+                  <w xml:id="l53w7">nom</w></l>
+               <l n="54" xml:id="l54">
+                  <w xml:id="l54w1">e</w>
+                  <w xml:id="l54w2">si</w>
+                  <w xml:id="l54w3" ana="#encl">l</w>
+                  <w xml:id="l54w4">tra<lb break="no"/>met</w>
+                  <w xml:id="l54w5">e</w>
+                  <w xml:id="l54w6">grecia</w>
+                  <w xml:id="l54w7">la</w>
+                  <w xml:id="l54w8">regio</w></l>
+               <l n="55" xml:id="l55">
+                  <w xml:id="l55w1">de</w>
+                  <w xml:id="l55w2">part</w>
+                  <w xml:id="l55w3">boeci</w>
+                  <w xml:id="l55w4">lor</w>
+                  <w xml:id="l55w5">manda</w>
+                  <w xml:id="l55w6">tal</w>
+                  <w xml:id="l55w7">raizo</w></l>
+               <lb/>
+               <l n="56" xml:id="l56">
+                  <w xml:id="l56w1">que</w>
+                  <w xml:id="l56w2">passen</w>
+                  <w xml:id="l56w3">mar</w>
+                  <w xml:id="l56w4">guarnit</w>
+                  <w xml:id="l56w5" ana="#aggl-s-unc">de</w>
+                  <w xml:id="l56w6">contencò</w></l>
+               <l n="57" xml:id="l57">
+                  <w xml:id="l57w1">eu</w>
+                  <w xml:id="l57w2">lor</w>
+                  <w xml:id="l57w3">redra</w>
+                  <w xml:id="l57w4">roma</w>
+                  <w xml:id="l57w5">p</w>
+                  <w xml:id="l57w6" ana="#aggl-s-unc">tra<lb break="no"/>azo</w></l>
+               <l n="58" xml:id="l58">
+                  <w xml:id="l58w1">lo</w>
+                  <w xml:id="l58w2">sènt</w>
+                  <w xml:id="l58w3">teiric</w>
+                  <w xml:id="l58w4">miga</w>
+                  <w xml:id="l58w5" ana="#aggl-s-unc">no</w>
+                  <w xml:id="l58w6">fo</w>
+                  <w xml:id="l58w7" ana="#aggl-s-unc">de</w>
+                  <w xml:id="l58w8">bo</w></l>
+               <l n="59" xml:id="l59">
+                  <w xml:id="l59w1">fez</w>
+                  <w xml:id="l59w2">sos</w>
+                  <w xml:id="l59w3">mes</w>
+                  <w xml:id="l59w4">segre</w>
+                  <w xml:id="l59w5">si</w>
+                  <w xml:id="l59w6" ana="#encl">lz</w>
+                  <w xml:id="l59w7">fez</w>
+                  <pb n="271" xml:id="pg3"/>
+                  <lb/>
+                  <w xml:id="l59w8"><unclear>met</unclear>re</w>
+                  <w xml:id="l59w9" ana="#aggl-s">e</w>
+                  <w xml:id="l59w10">preso</w></l>
+            </lg>
+            <lg n="10" xml:id="lg10">
+               <l n="60" xml:id="l60">
+                  <w xml:id="l60w1">E</w>
+                  <w xml:id="l60w2" ana="#encl">l</w>
+                  <w xml:id="l60w3">capitoli</w>
+                  <w xml:id="l60w4" ana="#elis">l</w>
+                  <w xml:id="l60w5" ana="#degl">en<space type="#degl"/>dema</w>
+                  <w xml:id="l60w6">a</w>
+                  <w xml:id="l60w7" ana="#encl">l</w>
+                  <w xml:id="l60w8">dia</w>
+                  <w xml:id="l60w9">clar</w></l>
+               <l n="61" xml:id="l61">
+                  <w xml:id="l61w1">lai</w>
+                  <w xml:id="l61w2" ana="#aggl-s">o</w>
+                  <w xml:id="l61w3">solien</w>
+                  <w xml:id="l61w4">las</w>
+                  <lb/>
+                  <w xml:id="l61w5">altras</w>
+                  <w xml:id="l61w6">leis</w>
+                  <w xml:id="l61w7"><c ana="lram-c">i</c>ut<c ana="lram-c">i</c>ar</w></l>
+               <l n="62" xml:id="l62">
+                  <w xml:id="l62w1">lai</w>
+                  <w xml:id="l62w2"><c ana="lram-c">u</c>eng</w>
+                  <w xml:id="l62w3" ana="#aggl-s">lo</w>
+                  <w xml:id="l62w4">reis</w>
+                  <w xml:id="l62w5">sa</w>
+                  <w xml:id="l62w6">felnia</w>
+                  <w xml:id="l62w7">menar</w></l>
+               <l n="63" xml:id="l63">
+                  <w xml:id="l63w1">lai</w>
+                  <w xml:id="l63w2">fo</w>
+                  <w xml:id="l63w3">boecis</w>
+                  <lb/>
+                  <w xml:id="l63w4" ana="#aggl-s">e</w>
+                  <w xml:id="l63w5">foren</w>
+                  <w xml:id="l63w6">i</w>
+                  <w xml:id="l63w7">soi</w>
+                  <w xml:id="l63w8">par</w></l>
+               <l n="64" xml:id="l64">
+                  <w xml:id="l64w1" ana="#aggl-s">lo</w>
+                  <w xml:id="l64w2">reis</w>
+                  <w xml:id="l64w3" ana="#aggl-s-unc">lo</w>
+                  <w xml:id="l64w4">pres</w>
+                  <w xml:id="l64w5">de</w>
+                  <w xml:id="l64w6">felnia</w>
+                  <w xml:id="l64w7">reptar</w></l>
+               <l n="65" xml:id="l65">
+                  <w xml:id="l65w1" ana="#elis">qu</w>
+                  <w xml:id="l65w2">el</w>
+                  <w xml:id="l65w3">trametìa</w>
+                  <w xml:id="l65w4">los</w>
+                  <lb/>
+                  <w xml:id="l65w5">breus</w>
+                  <w xml:id="l65w6">ultra</w>
+                  <w xml:id="l65w7" ana="#aggl-s-unc">la</w>
+                  <w xml:id="l65w8">mar</w></l>
+               <l n="66" xml:id="l66">
+                  <w xml:id="l66w1" ana="#aggl-s-unc">a</w>
+                  <w xml:id="l66w2">òbs</w>
+                  <w xml:id="l66w3">los</w>
+                  <w xml:id="l66w4">grex</w>
+                  <w xml:id="l66w5">roma</w>
+                  <w xml:id="l66w6"><c ana="lram-c">u</c>olia</w>
+                  <w xml:id="l66w7">tradar</w></l>
+               <l n="67" xml:id="l67">
+                  <w xml:id="l67w1">pero</w>
+                  <w xml:id="l67w2">boeci</w>
+                  <lb/>
+                  <w xml:id="l67w3">anc</w>
+                  <w xml:id="l67w4">no</w>
+                  <w xml:id="l67w5"><c ana="#lram-c">u</c>enc</w>
+                  <w xml:id="l67w6" ana="#aggl-s">e</w>
+                  <w xml:id="l67w7">pesat</w></l>
+               <l n="68" xml:id="l68">
+                  <w xml:id="l68w1">sal</w>
+                  <w xml:id="l68w2">el</w>
+                  <w xml:id="l68w3" ana="#aggl-s">en</w>
+                  <w xml:id="l68w4">estant</w>
+                  <w xml:id="l68w5" ana="#aggl-s-unc">e</w>
+                  <w xml:id="l68w6">cuidet</w>
+                  <w xml:id="l68w7" ana="#elis">s</w>
+                  <w xml:id="l68w8">en</w>
+                  <w xml:id="l68w9">sal<c ana="#lram-c">u</c>ar</w></l>
+               <l n="69" xml:id="l69">
+                  <w xml:id="l69w1" ana="#elis">l</w>
+                  <w xml:id="l69w2">om</w>
+                  <w xml:id="l69w3">no</w>
+                  <w xml:id="l69w4" ana="#encl">l</w>
+                  <lb/>
+                  <w xml:id="l69w5">laiset</w>
+                  <w xml:id="l69w6" ana="#aggl-s">a</w>
+                  <w xml:id="l69w7">sal<c ana="#lram-c">u</c>ament</w>
+                  <w xml:id="l69w8">annàr</w></l>
+               <l n="70" xml:id="l70">
+                  <w xml:id="l70w1">cil</w>
+                  <w xml:id="l70w2" ana="#aggl-s">li</w>
+                  <w xml:id="l70w3">falìren</w>
+                  <w xml:id="l70w4">que</w>
+                  <w xml:id="l70w5" ana="#encl">l</w>
+                  <w xml:id="l70w6">solient</w>
+                  <w xml:id="l70w7">aiudar</w></l>
+               <lb/>
+               <l n="71" xml:id="l71">
+                  <w xml:id="l71w1">fez</w>
+                  <w xml:id="l71w2">lo</w>
+                  <w xml:id="l71w3" ana="#aggl-s">lo</w>
+                  <w xml:id="l71w4">reis</w>
+                  <w xml:id="l71w5" ana="#aggl-s">e</w>
+                  <w xml:id="l71w6">sa</w>
+                  <w xml:id="l71w7">charcer</w>
+                  <w xml:id="l71w8">gitar</w></l>
+            </lg>
+         </div>
+         <div>
+            <lg n="11" xml:id="lg11">
+               <l n="72" xml:id="l72">
+                  <w xml:id="l72w1">Ec</w>
+                  <w xml:id="l72w2"><c ana="lram-c">u</c>os</w>
+                  <w xml:id="l72w3">boeci</w>
+                  <w xml:id="l72w4">cadegut</w>
+                  <w xml:id="l72w5" ana="#aggl-s #degl">e<space type="#degl"/>n</w>
+                  <w xml:id="l72w6">afàn</w></l>
+               <lb/>
+               <l n="73" xml:id="l73">
+                  <w xml:id="l73w1">e</w>
+                  <w xml:id="l73w2">granz</w>
+                  <w xml:id="l73w3">kdenas</w>
+                  <w xml:id="l73w4">qui</w>
+                  <w xml:id="l73w5" ana="#elis">l</w>
+                  <w xml:id="l73w6">estan</w>
+                  <w xml:id="l73w7">apesant</w></l>
+               <l n="74" xml:id="l74">
+                  <w xml:id="l74w1">reclama</w>
+                  <w xml:id="l74w2">deu</w>
+                  <w xml:id="l74w3" ana="#aggl-s">de</w>
+                  <w xml:id="l74w4">cel</w>
+                  <w xml:id="l74w5">lo</w>
+                  <lb/>
+                  <w xml:id="l74w6">rei</w>
+                  <w xml:id="l74w7" ana="#aggl-s-unc">lo</w>
+                  <w xml:id="l74w8">grant</w></l>
+               <l n="75" xml:id="l75">
+                  <w xml:id="l75w1"><expan corresp="#abbr-dmn">d<ex>omi</ex>ne</expan></w>
+                  <w xml:id="l75w2">pater</w>
+                  <w xml:id="l75w3" ana="#aggl-s-unc">e</w>
+                  <w xml:id="l75w4">te</w>
+                  <w xml:id="l75w5" ana="#encl">m</w>
+                  <w xml:id="l75w6" ana="#elis">fia<c ana="lram-c">u</c></w>
+                  <w xml:id="l75w7">eu</w>
+                  <w xml:id="l75w8">tant</w></l>
+               <l n="76" xml:id="l76">
+                  <w xml:id="l76w1" ana="#aggl-s">e</w>
+                  <w xml:id="l76w2">cui</w>
+                  <w xml:id="l76w3">marce</w>
+                  <w xml:id="l76w4">tuit</w>
+                  <w xml:id="l76w5">pec<lb break="no"/>cador</w>
+                  <w xml:id="l76w6">estant</w></l>
+               <l n="77" xml:id="l77">
+                  <w xml:id="l77w1">las</w>
+                  <w xml:id="l77w2">mias</w>
+                  <w xml:id="l77w3">musas</w>
+                  <w xml:id="l77w4" ana="aggl-s-unc">qui</w>
+                  <w xml:id="l77w5">ant</w>
+                  <w xml:id="l77w6"><expan corresp="#ab-lm-pbarr-d">p<ex>er</ex></expan>dut</w>
+                  <w xml:id="l77w7">lor</w>
+                  <w xml:id="l77w8">cant</w></l>
+               <l n="78" xml:id="l78">
+                  <w xml:id="l78w1" ana="aggl-s-unc">de</w>
+                  <w xml:id="l78w2">sapien<lb break="no"/>cia</w>
+                  <w xml:id="l78w3">ana<c ana="lram-c">u</c>a</w>
+                  <w xml:id="l78w4">eu</w>
+                  <w xml:id="l78w5">ditan</w></l>
+               <l n="79" xml:id="l79">
+                  <w xml:id="l79w1">plor</w>
+                  <w xml:id="l79w2">tota</w>
+                  <w xml:id="l79w3">dia</w>
+                  <w xml:id="l79w4">faz</w>
+                  <w xml:id="l79w5">cosdumna</w>
+                  <w xml:id="l79w6" ana="#elis">d</w>
+                  <w xml:id="l79w7">efant</w></l>
+               <l n="80" xml:id="l80">
+                  <w xml:id="l80w1">tuit</w>
+                  <lb/>
+                  <w xml:id="l80w2">a</w>
+                  <w xml:id="l80w3">plorar</w>
+                  <w xml:id="l80w4">repairen</w>
+                  <w xml:id="l80w5">mei</w>
+                  <w xml:id="l80w6">talant</w></l>
+            </lg>
+
+            <lg n="12" xml:id="lg12">
+               <l n="81" xml:id="l81">
+                  <w xml:id="l81w1"><expan corresp="#abbr-dmn">D<ex>omi</ex>ne</expan></w>
+                  <w xml:id="l81w2">pater</w>
+                  <w xml:id="l81w3">tu</w>
+                  <w xml:id="l81w4">qui</w>
+                  <w xml:id="l81w5" ana="#encl">m</w>
+                  <w xml:id="l81w6">sols</w>
+                  <w xml:id="l81w7">goernar</w></l>
+               <lb/>
+               <l n="82" xml:id="l82">
+                  <w xml:id="l82w1">e</w>
+                  <w xml:id="l82w2">te</w>
+                  <w xml:id="l82w3" ana="#encl">m</w>
+                  <w xml:id="l82w4" ana="#elis">soli</w>
+                  <w xml:id="l82w5">eu</w>
+                  <w xml:id="l82w6" ana="aggl-s-unc">a</w>
+                  <w xml:id="l82w7">tòz</w>
+                  <w xml:id="l82w8">dias</w>
+                  <w xml:id="l82w9">fiar</w></l>
+               <l n="83" xml:id="l83">
+                  <w xml:id="l83w1">tu</w>
+                  <w xml:id="l83w2" ana="#encl">m</w>
+                  <w xml:id="l83w3">fezìst</w>
+                  <w xml:id="l83w4">tànt</w>
+                  <w xml:id="l83w5" ana="aggl-s">e</w>
+                  <w xml:id="l83w6">gran</w>
+                  <w xml:id="l83w7">riquezà</w>
+                  <w xml:id="l83w8">stàr</w></l>
+               <lb/>
+               <l n="84" xml:id="l84">
+                  <w xml:id="l84w1" ana="aggl-s">de</w>
+                  <w xml:id="l84w2">tota</w>
+                  <w xml:id="l84w3">roma</w>
+                  <w xml:id="l84w4" ana="#elis">l</w>
+                  <w xml:id="l84w5">emperi</w>
+                  <w xml:id="l84w6">aig</w>
+                  <w xml:id="l84w7" ana="aggl-s">a</w>
+                  <w xml:id="l84w8">mandar</w></l>
+               <l n="85" xml:id="l85">
+                  <w xml:id="l85w1">los</w>
+                  <w xml:id="l85w2">sa<c ana="lram-c">u</c>is</w>
+                  <w xml:id="l85w3">omes</w>
+                  <w xml:id="l85w4">en</w>
+                  <w xml:id="l85w5" ana="#elis">soli</w>
+                  <w xml:id="l85w6">ador<lb break="no"/>nar</w></l>
+               <l n="86" xml:id="l86">
+                  <w xml:id="l86w1">de</w>
+                  <w xml:id="l86w2">la</w>
+                  <w xml:id="l86w3"><c ana="lram-c">i</c>usticia</w>
+                  <w xml:id="l86w4">que</w>
+                  <w xml:id="l86w5">grant</w>
+                  <w xml:id="l86w6">aig</w>
+                  <w xml:id="l86w7" ana="aggl-s">a</w>
+                  <w xml:id="l86w8">mandar</w></l>
+               <l n="87" xml:id="l87">
+                  <w xml:id="l87w1">no</w>
+                  <w xml:id="l87w2" ana="#encl">t</w>
+                  <w xml:id="l87w3">ser<c ana="lram-c">u</c>ii</w>
+                  <w xml:id="l87w4">bè</w>
+                  <w xml:id="l87w5" ana="aggl-s">no</w>
+                  <w xml:id="l87w6">la(m)</w>
+                  <lb/>
+                  <w xml:id="l87w7"><c ana="lram-c">u</c>olguist</w>
+                  <w xml:id="l87w8">laisar</w></l>
+               <l n="88" xml:id="l88">
+                  <w xml:id="l88w1"><expan corresp="#ab-lm-pbarr-d">p<ex>er</ex></expan></w>
+                  <w xml:id="l88w2">aizò</w>
+                  <w xml:id="l88w3" ana="#encl">m</w>
+                  <w xml:id="l88w4">fàs</w>
+                  <w xml:id="l88w5">e</w>
+                  <w xml:id="l88w6" ana="aggl-s-unc">chaiti<c ana="lram-c">u</c>eza</w>
+                  <w xml:id="l88w7">star</w></l>
+               <l n="89" xml:id="l89">
+                  <w xml:id="l89w1">non</w>
+                  <w xml:id="l89w2">ai</w>
+                  <w xml:id="l89w3">que</w>
+                  <w xml:id="l89w4">prenga</w>
+                  <lb/>
+                  <w xml:id="l89w5" ana="aggl-s">ne</w>
+                  <w xml:id="l89w6">no</w>
+                  <w xml:id="l89w7">pòsg</w>
+                  <w xml:id="l89w8">re</w>
+                  <w xml:id="l89w9">donar</w></l>
+               <l n="90" xml:id="l90">
+                  <w xml:id="l90w1">ni</w>
+                  <w xml:id="l90w2">nòit</w>
+                  <w xml:id="l90w3">ni</w>
+                  <w xml:id="l90w4">dìa</w>
+                  <w xml:id="l90w5">no</w>
+                  <w xml:id="l90w6">faz</w>
+                  <w xml:id="l90w7">que</w>
+                  <w xml:id="l90w8">mal</w>
+                  <w xml:id="l90w9">pensar</w></l>
+               <l n="91" xml:id="l91">
+                  <w xml:id="l91w1">tuit</w>
+                  <lb/>
+                  <w xml:id="l91w2">mei</w>
+                  <w xml:id="l91w3">talant</w>
+                  <w xml:id="l91w4" ana="#delg">re<space type="#degl"/>pairen</w>
+                  <w xml:id="l91w5" ana="aggl-s">a</w>
+                  <w xml:id="l91w6">plorar</w></l>
+            </lg>
+         </div>
+         <div>
+            <lg n="13" xml:id="lg13">
+               <l n="92" xml:id="l92">
+                  <w xml:id="l92w1">Hanc</w>
+                  <w xml:id="l92w2">no</w>
+                  <w xml:id="l92w3">fo</w>
+                  <w xml:id="l92w4">òm</w>
+                  <w xml:id="l92w5" ana="#aggl-s">ta</w>
+                  <w xml:id="l92w6">gran</w>
+                  <w xml:id="l92w7"><c ana="#lram-c">u</c>ertut</w>
+                  <lb/>
+                  <w xml:id="l92w8">agues</w></l>
+               <l n="93" xml:id="l93">
+                  <w xml:id="l93w1" ana="#aggl-s">qui</w>
+                  <w xml:id="l93w2">sapiencia</w>
+                  <w xml:id="l93w3">compenre</w>
+                  <w xml:id="l93w4">pogues</w></l>
+               <l n="94" xml:id="l94">
+                  <w xml:id="l94w1">pero</w>
+                  <w xml:id="l94w2">boecis</w>
+                  <w xml:id="l94w3">non</w>
+                  <w xml:id="l94w4">fò</w>
+                  <w xml:id="l94w5">de</w>
+                  <w xml:id="l94w6">tot</w>
+                  <lb/>
+                  <w xml:id="l94w7">mespres</w></l>
+               <l n="95" xml:id="l95">
+                  <w xml:id="l95w1">anc</w>
+                  <w xml:id="l95w2">non</w>
+                  <w xml:id="l95w3"><c ana="#lram-c">u</c>ist</w>
+                  <w xml:id="l95w4">ù</w>
+                  <w xml:id="l95w5" ana="#aggl-s">qui</w>
+                  <w xml:id="l95w6">tant</w>
+                  <w xml:id="l95w7">en</w>
+                  <w xml:id="l95w8">retegues</w></l>
+               <l n="96" xml:id="l96">
+                  <w xml:id="l96w1">laìnz</w>
+                  <w xml:id="l96w2" ana="#aggl-s">e</w>
+                  <w xml:id="l96w3">las</w>
+                  <w xml:id="l96w4">car<lb break="no"/>cers</w>
+                  <w xml:id="l96w5">o</w>
+                  <w xml:id="l96w6">èl</w>
+                  <w xml:id="l96w7"><c ana="#lram-c">i</c>azia</w>
+                  <w xml:id="l96w8">près</w></l>
+               <l n="97" xml:id="l97">
+                  <w xml:id="l97w1">lainz</w>
+                  <w xml:id="l97w2">co<expan corresp="#ab-tild-nas"><ex>m</ex></expan>tà<c
+                        ana="#lram-c">u</c>a</w>
+                  <w xml:id="l97w3">del</w>
+                  <w xml:id="l97w4">te<expan corresp="#ab-tild-nas"><ex>m</ex></expan>poral</w>
+                  <w xml:id="l97w5">cu<expan corresp="#ab-tild-nas"><ex>m</ex></expan></w>
+                  <w xml:id="l97w6">es</w></l>
+               <l n="98" xml:id="l98">
+                  <w xml:id="l98w1" ana="#aggl-s">de</w>
+                  <w xml:id="l98w2">sol</w>
+                  <w xml:id="l98w3" ana="#aggl-s">e</w>
+                  <w xml:id="l98w4">luna</w>
+                  <w xml:id="l98w5">cel</w><pb n="272" xml:id="pg4"/><lb/>
+                  <w xml:id="l98w6" ana="#aggl-s">e</w>
+                  <w xml:id="l98w7">terra</w>
+                  <w xml:id="l98w8">mar</w>
+                  <w xml:id="l98w9">cu<expan corresp="#ab-tild-nas"><ex>m</ex></expan></w>
+                  <w xml:id="l98w10">es</w></l>
+            </lg>
+
+            <lg n="14" xml:id="lg14">
+               <l n="99" xml:id="l99">
+                  <w xml:id="l99w1">Nos</w>
+                  <w xml:id="l99w3" ana="#aggl-s">e</w>
+                  <w xml:id="l99w4">molz</w>
+                  <w xml:id="l99w5">libres</w>
+                  <w xml:id="l99w6" ana="#aggl-s-unc">o</w>
+                  <w xml:id="l99w7">trobam</w>
+                  <w xml:id="l99w8">legen</w></l>
+               <lb/>
+               <l n="100" xml:id="l100">
+                  <w xml:id="l100w1">dis</w>
+                  <w xml:id="l100w2">o</w>
+                  <w xml:id="l100w3">boecis</w>
+                  <w xml:id="l100w4" ana="#aggl-s">e</w>
+                  <w xml:id="l100w5">sso</w>
+                  <w xml:id="l100w6">gran</w>
+                  <w xml:id="l100w7">marriment</w></l>
+               <l n="101" xml:id="l101">
+                  <w xml:id="l101w1">quant</w>
+                  <w xml:id="l101w2" ana="#aggl-s">e</w>
+                  <w xml:id="l101w3" ana="#aggl-s-unc">la</w>
+                  <w xml:id="l101w4">carcer</w>
+                  <w xml:id="l101w5">a<c ana="#lram-c">u</c>ia</w>
+                  <w xml:id="l101w6" ana="#encl">l</w>
+                  <lb/>
+                  <w xml:id="l101w7">cor</w>
+                  <w xml:id="l101w8">dolent</w></l>
+               <l n="102" xml:id="l102">
+                  <w xml:id="l102w1">molt</w>
+                  <w xml:id="l102w2"><c ana="#lram-c">u</c>àl</w>
+                  <w xml:id="l102w3">lo</w>
+                  <w xml:id="l102w4">bès</w>
+                  <w xml:id="l102w5">que</w>
+                  <w xml:id="l102w6" ana="#elis">l</w>
+                  <w xml:id="l102w7">om</w>
+                  <w xml:id="l102w8">fai</w>
+                  <w xml:id="l102w9" ana="#aggl-s">e</w>
+                  <w xml:id="l102w10"><c ana="#lram-c">i</c>o<c ana="#lram-c">u</c>ent</w></l>
+               <l n="103" xml:id="l103">
+                  <w xml:id="l103w1">com</w>
+                  <w xml:id="l103w2">el</w>
+                  <w xml:id="l103w3">ès</w>
+                  <lb/>
+                  <w xml:id="l103w4"><c ana="#lram-c">u</c>elz</w>
+                  <w xml:id="l103w5">qui</w>
+                  <w xml:id="l103w6">pois</w>
+                  <w xml:id="l103w7">lo</w>
+                  <w xml:id="l103w8">sostè</w></l>
+               <l n="104" xml:id="l104">
+                  <w xml:id="l104w1">quan</w>
+                  <w xml:id="l104w2"><c ana="#lram-c">u</c>e</w>
+                  <w xml:id="l104w3" ana="#aggl-s">a</w>
+                  <w xml:id="l104w4" ana="#aggl-s">l</w>
+                  <w xml:id="l104w5">òra</w>
+                  <w xml:id="l104w6">que</w>
+                  <w xml:id="l104w7" ana="#encl">l</w>
+                  <w xml:id="l104w8">corps</w>
+                  <w xml:id="l104w9" ana="#aggl-s">li</w>
+                  <w xml:id="l104w10"><c ana="#lram-c">u</c>ai</w>
+                  <lb/>
+                  <w xml:id="l119w11">franèn</w></l>
+               <l n="105" xml:id="l105">
+                  <w xml:id="l105w1"><expan corresp="#ab-lm-pbarr-d">p<ex>er</ex></expan></w>
+                  <w xml:id="l105w2">be</w>
+                  <w xml:id="l105w3" ana="#elis">qu</w>
+                  <w xml:id="l105w4">a</w>
+                  <w xml:id="l105w5">fait</w>
+                  <w xml:id="l105w6">deus</w>
+                  <w xml:id="l105w7" ana="#aggl-s">a</w>
+                  <w xml:id="l105w8" ana="#aggl-s">ssa</w>
+                  <w xml:id="l105w9">part</w>
+                  <w xml:id="l105w10" ana="#aggl-s-unc">lo</w>
+                  <w xml:id="l105w11">te</w></l>
+            </lg>
+
+            <lg n="15" xml:id="lg15">
+               <l n="106" xml:id="l106">
+                  <w xml:id="l106w1">Nos</w>
+                  <w xml:id="l106w2">de</w>
+                  <w xml:id="l106w3">molz</w>
+                  <lb/>
+                  <w xml:id="l106w4">omnes</w>
+                  <w xml:id="l106w5">nos</w>
+                  <w xml:id="l106w6" ana="#aggl-s">o</w>
+                  <w xml:id="l106w7">a<c ana="#lram-c">u</c>em</w>
+                  <w xml:id="l106w8"><c ana="#lram-c">u</c>eùt</w></l>
+               <l n="107" xml:id="l107">
+                  <w xml:id="l107w1">om</w>
+                  <w xml:id="l107w2">per</w>
+                  <w xml:id="l107w3"><c ana="#lram-c">u</c>eltat</w>
+                  <w xml:id="l107w4">non</w>
+                  <w xml:id="l107w5">a</w>
+                  <w xml:id="l107w6">lo</w>
+                  <w xml:id="l107w7">pel</w>
+                  <w xml:id="l107w8">chanut</w></l>
+               <lb/>
+               <l n="108" xml:id="l108">
+                  <w xml:id="l108w1">o</w>
+                  <w xml:id="l108w2">es</w>
+                  <w xml:id="l108w3">eferms</w>
+                  <w xml:id="l108w4" ana="#aggl-s">o</w>
+                  <w xml:id="l108w5">à</w>
+                  <w xml:id="l108w6">afan</w>
+                  <w xml:id="l108w7">agùt</w></l>
+            </lg>
+
+            <lg n="16" xml:id="lg16">
+               <l n="109" xml:id="l109">
+                  <w xml:id="l109w1">cellui</w>
+                  <w xml:id="l109w2"><c ana="#lram-c">u</c>ai</w>
+                  <w xml:id="l109w3">bè</w>
+                  <w xml:id="l109w4">qui</w>
+                  <w xml:id="l109w5">tra</w>
+                  <w xml:id="l109w6">mal</w>
+                  <w xml:id="l109w7">e</w>
+                  <w xml:id="l109w8"><c ana="#lram-c">i</c>o<c ana="#lram-c">u</c>ent</w></l>
+               <lb/>
+               <l n="110" xml:id="l110">
+                  <w xml:id="l110w1">e</w>
+                  <w xml:id="l110w2">cu<expan corresp="#ab-tild-nas"><ex>m</ex></expan></w>
+                  <w xml:id="l110w3">es</w>
+                  <w xml:id="l110w4"><c ana="#lram-c">u</c>elz</w>
+                  <w xml:id="l110w5">donc</w>
+                  <w xml:id="l110w6">estai</w>
+                  <w xml:id="l110w7" ana="#degl">bona<space type="#degl"/>ment</w></l>
+               <l n="111" xml:id="l111">
+                  <w xml:id="l111w1">deus</w>
+                  <w xml:id="l111w2" ana="#aggl-s">a</w>
+                  <w xml:id="l111w3">mes</w>
+                  <w xml:id="l111w4" ana="#aggl-s">e</w>
+                  <w xml:id="l111w5">lùi</w>
+                  <w xml:id="l111w6">so</w>
+                  <w xml:id="l111w7">chasti<lb break="no"/>ament</w></l>
+            </lg>
+
+            <lg n="17" xml:id="lg17">
+               <l n="112" xml:id="l112">
+                  <w xml:id="l112w1">mas</w>
+                  <w xml:id="l112w2">quant</w>
+                  <w xml:id="l112w3">es</w>
+                  <w xml:id="l112w4"><c ana="#lram-c">i</c>o<c ana="#lram-c">u</c>es</w>
+                  <w xml:id="l112w5"><expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+                  <w xml:id="l112w6">à</w>
+                  <w xml:id="l112w7">onòr</w>
+                  <w xml:id="l112w8">molt</w>
+                  <w xml:id="l112w9">grànt</w></l>
+               <l n="113" xml:id="l113">
+                  <w xml:id="l113w1">et</w>
+                  <w xml:id="l113w2">e<c ana="#lram-c">u</c>ers</w>
+                  <lb/>
+                  <w xml:id="l113w3">deu</w>
+                  <w xml:id="l113w4" ana="#aggl-s-unc">no</w>
+                  <w xml:id="l113w5">torna</w>
+                  <w xml:id="l113w6" ana="#aggl-s-unc">so</w>
+                  <w xml:id="l113w7">talant</w></l>
+               <l n="114" xml:id="l114">
+                  <w xml:id="l114w1">cu<expan corresp="#ab-tild-nas"><ex>m</ex></expan></w>
+                  <w xml:id="l114w2">el</w>
+                  <w xml:id="l114w3">es</w>
+                  <w xml:id="l114w4"><c ana="#lram-c">u</c>elz</w>
+                  <w xml:id="l114w5"><c ana="#lram-c">u</c>ai</w>
+                  <w xml:id="l114w6" ana="#elis">s</w>
+                  <w xml:id="l114w7">onors</w>
+                  <w xml:id="l114w8">descaptàn</w></l>
+               <lb/>
+               <l n="115" xml:id="l115">
+                  <w xml:id="l115w1">quant</w>
+                  <w xml:id="l115w2">se</w>
+                  <w xml:id="l115w3">reguarda</w>
+                  <w xml:id="l115w4">nòn</w>
+                  <w xml:id="l115w5">à</w>
+                  <w xml:id="l115w6" ana="#aggl-s">ne</w>
+                  <w xml:id="l115w7">tan</w>
+                  <w xml:id="l115w8" ana="#aggl-s">ne</w>
+                  <w xml:id="l115w9">quant</w></l>
+               <l n="116" xml:id="l116">
+                  <w xml:id="l116w1">la</w>
+                  <w xml:id="l116w2">pèlz</w>
+                  <w xml:id="l116w3" ana="#aggl-s-unc">li</w>
+                  <w xml:id="l116w4">rùa</w>
+                  <w xml:id="l116w5">hèc</w>
+                  <w xml:id="l116w6">lo</w>
+                  <lb/>
+                  <w xml:id="l116w7" ana="#aggl-s">kap</w>
+                  <w xml:id="l116w8">te</w>
+                  <w xml:id="l116w9">tremblànt</w></l>
+               <l n="117" xml:id="l117">
+                  <w xml:id="l117w1">morir</w>
+                  <w xml:id="l117w2"><c ana="#lram-c">u</c>olrìa</w>
+                  <w xml:id="l117w3">e</w>
+                  <w xml:id="l117w4">ès</w>
+                  <w xml:id="l117w5" ana="#aggl-s">e</w>
+                  <w xml:id="l117w6">gran</w>
+                  <w xml:id="l117w7">masànt</w></l>
+               <l n="118" xml:id="l118">
+                  <w xml:id="l118w1">tras<lb break="no"/>tota</w>
+                  <w xml:id="l118w2">dia</w>
+                  <w xml:id="l118w3"><c ana="#lram-c">u</c>ai</w>
+                  <w xml:id="l118w4">la</w>
+                  <w xml:id="l118w5">mòrt</w>
+                  <w xml:id="l118w6" ana="#degl">recla<space type="#degl"/>màn</w></l>
+               <l n="119" xml:id="l119">
+                  <w xml:id="l119w1">ella</w>
+                  <w xml:id="l119w2">no</w>
+                  <w xml:id="l119w3" ana="#encl #aggl-s">l</w>
+                  <w xml:id="l119w4">prèn</w>
+                  <w xml:id="l119w5" ana="#aggl-s">ne</w>
+                  <w xml:id="l119w6">no</w>
+                  <w xml:id="l119w7" ana="#encl #aggl-s">l</w>
+                  <w xml:id="l119w8" ana="#aggl-s">en</w>
+                  <w xml:id="l119w9">fai</w>
+                  <lb/>
+                  <w xml:id="l119w10">semblant</w></l>
+            </lg>
+         </div>
+         <div>
+            <lg n="18" xml:id="lg18">
+               <l n="120" xml:id="l120">
+                  <w xml:id="l120w1">Drèz</w>
+                  <w xml:id="l120w2">es</w>
+                  <w xml:id="l120w3">e</w>
+                  <w xml:id="l120w4">bès</w>
+                  <w xml:id="l120w5">que</w>
+                  <w xml:id="l120w6" ana="#elis">l</w>
+                  <w xml:id="l120w7">om</w>
+                  <w xml:id="l120w8" ana="#aggl-s">e</w>
+                  <w xml:id="l120w9">deu</w>
+                  <w xml:id="l120w10" ana="#elis">s</w>
+                  <w xml:id="l120w11">espèr</w></l>
+               <l n="121" xml:id="l121">
+                  <w xml:id="l121w1">mas</w>
+                  <w xml:id="l121w2">non</w>
+                  <w xml:id="l121w3">es</w>
+                  <w xml:id="l121w4">bes</w>
+                  <lb/>
+                  <w xml:id="l121w5">que</w>
+                  <w xml:id="l121w6" ana="#encl">s</w>
+                  <w xml:id="l121w7">fì</w>
+                  <w xml:id="l121w8">e</w>
+                  <w xml:id="l121w9">son</w>
+                  <w xml:id="l121w10">a<c ana="#lram-c">u</c>èr</w></l>
+               <l n="122" xml:id="l122">
+                  <w xml:id="l122w1" ana="#aggl-s">ta</w>
+                  <w xml:id="l122w2" ana="#aggl-s">mala</w>
+                  <w xml:id="l122w3" ana="#aggl-s">fè</w>
+                  <w xml:id="l122w4">nulz</w>
+                  <w xml:id="l122w5">om</w>
+                  <w xml:id="l122w6">no</w>
+                  <w xml:id="l122w7">pòt</w>
+                  <w xml:id="l122w8"><c ana="#lram-c">u</c>eder</w></l>
+               <l n="123" xml:id="l123">
+                  <w xml:id="l123w1" ana="#elis">l</w>
+                  <w xml:id="l123w2">om</w>
+                  <w xml:id="l123w3" ana="#elis">l</w>
+                  <w xml:id="l123w4">a</w>
+                  <w xml:id="l123w5">a</w>
+                  <w xml:id="l123w6" ana="#encl #aggl-s">l</w>
+                  <w xml:id="l123w7">mà</w>
+                  <lb/>
+                  <w xml:id="l123w8">miga</w>
+                  <w xml:id="l123w9" ana="#aggl-s">no</w>
+                  <w xml:id="l123w10" ana="#elis">l</w>
+                  <w xml:id="l123w11">a</w>
+                  <w xml:id="l123w12">a</w>
+                  <w xml:id="l123w13" ana="#encl #aggl-s">l</w>
+                  <w xml:id="l123w14">ser</w></l>
+               <l n="124" xml:id="l124">
+                  <w xml:id="l124w1">cu<expan corresp="#ab-tild-nas"><ex>m</ex></expan></w>
+                  <w xml:id="l124w2" ana="#elis">l</w>
+                  <w xml:id="l124w3">us</w>
+                  <w xml:id="l124w4" ana="#aggl-s">lo</w>
+                  <w xml:id="l124w5">pert</w>
+                  <w xml:id="l124w6">a</w>
+                  <w xml:id="l124w7" ana="#encl #aggl-s">l</w>
+                  <w xml:id="l124w8">àltre</w>
+                  <w xml:id="l124w9"><c ana="#lram-c">u</c>è</w>
+                  <w xml:id="l124w10">tener</w></l>
+            </lg>
+
+            <lg n="19" xml:id="lg19">
+               <l n="125" xml:id="l125">
+                  <w xml:id="l125w1">e</w>
+                  <w xml:id="l125w2" ana="#aggl-s-unc">la</w>
+                  <w xml:id="l125w3">mòrz</w>
+                  <lb/>
+                  <w xml:id="l125w4">à</w>
+                  <w xml:id="l125w5" ana="#degl">epsa<space type="#degl"/>ment</w>
+                  <w xml:id="l125w6">mala</w>
+                  <w xml:id="l125w7">fè</w></l>
+               <l n="126" xml:id="l126">
+                  <w xml:id="l126w1" ana="#elis">l</w>
+                  <w xml:id="l126w2">om</w>
+                  <w xml:id="l126w3"><c ana="#lram-c">u</c>e</w>
+                  <w xml:id="l126w4">u</w>
+                  <w xml:id="l126w5">ome</w>
+                  <w xml:id="l126w6">quaitiu</w>
+                  <w xml:id="l126w7">e</w>
+                  <w xml:id="l126w8">dolènt</w></l>
+               <l n="127" xml:id="l127">
+                  <w xml:id="l127w1" ana="#aggl-s">o</w>
+                  <w xml:id="l127w2">ès</w>
+                  <lb/>
+                  <w xml:id="l127w3">malàptes</w>
+                  <w xml:id="l127w4" ana="#aggl-s-unc">o</w>
+                  <w xml:id="l127w5">altre</w>
+                  <w xml:id="l127w6">pres</w>
+                  <w xml:id="l127w7" ana="#aggl-s">lo</w>
+                  <w xml:id="l127w8">te</w></l>
+               <l n="128" xml:id="l128">
+                  <w xml:id="l128w1" ana="#aggl-s">no<expan corresp="#ab-tild-nas"
+                        ><ex>n</ex></expan></w>
+                  <w xml:id="l128w2">à</w>
+                  <w xml:id="l128w3">a<c ana="#lram-c">u</c>èr</w>
+                  <w xml:id="l128w4">nì</w>
+                  <w xml:id="l128w5">amìc</w>
+                  <w xml:id="l128w6">ni</w>
+                  <w xml:id="l128w7">parent</w></l>
+               <lb/>
+               <l n="129" xml:id="l129">
+                  <w xml:id="l129w1">e</w>
+                  <w xml:id="l129w2">donc</w>
+                  <w xml:id="l129w3">apella</w>
+                  <w xml:id="l129w4">mort</w>
+                  <w xml:id="l129w5">ta</w>
+                  <w xml:id="l129w6" ana="#degl">dolza<space type="#degl"/>ment</w></l>
+               <l n="130" xml:id="l130">
+                  <w xml:id="l130w1">crìda</w>
+                  <w xml:id="l130w2" ana="#aggl-s">e</w>
+                  <w xml:id="l130w3">ùcha</w>
+                  <w xml:id="l130w4">morz</w>
+                  <lb/>
+                  <w xml:id="l130w5" ana="#aggl-s">a</w>
+                  <w xml:id="l130w6">mè</w>
+                  <w xml:id="l130w7">quar</w>
+                  <w xml:id="l130w8">no</w>
+                  <w xml:id="l130w9"><c ana="#lram-c">u</c>ès</w></l>
+               <l n="131" xml:id="l131">
+                  <w xml:id="l131w1">ella</w>
+                  <w xml:id="l131w2" ana="#encl #aggl-s">s</w>
+                  <w xml:id="l131w3">fèn</w>
+                  <w xml:id="l131w4" ana="#degl">sor<space type="#degl"/>da</w>
+                  <w xml:id="l131w5">gens</w>
+                  <w xml:id="l131w6" ana="#aggl-s">a</w>
+                  <w xml:id="l131w7">lui</w>
+                  <w xml:id="l131w8">non</w>
+                  <w xml:id="l131w9">atend</w></l>
+               <l n="132" xml:id="l132">
+                  <w xml:id="l132w1">quant</w>
+                  <lb/>
+                  <w xml:id="l132w2">menz</w>
+                  <w xml:id="l132w3" ana="#elis">s</w>
+                  <w xml:id="l132w4">en</w>
+                  <w xml:id="l132w5">guarda</w>
+                  <w xml:id="l132w6">no</w>
+                  <w xml:id="l132w7">sàp</w>
+                  <w xml:id="l132w8">mot</w>
+                  <w xml:id="l132w9">quan</w>
+                  <w xml:id="l132w10">lo</w>
+                  <w xml:id="l132w11" ana="#elis">s</w>
+                  <w xml:id="l132w12">prent</w></l>
+            </lg>
+
+            <lg n="20" xml:id="lg20">
+               <l n="133" xml:id="l133">
+                  <w xml:id="l133w1" ana="#aggl-s">Si</w>
+                  <w xml:id="l133w2">cu<expan corresp="#ab-tild-nas"><ex>m</ex></expan></w>
+                  <w xml:id="l133w3" ana="#aggl-s-unc">la</w>
+                  <w xml:id="l133w4">nìbles</w>
+                  <pb n="273" xml:id="pg5"/>
+                  <lb/>
+                  <w xml:id="l133w5">cobre</w>
+                  <w xml:id="l133w6" ana="#encl">l</w>
+                  <w xml:id="l133w7"><c ana="#lram-c">i</c>òrn</w>
+                  <w xml:id="l133w8" ana="#aggl-s">lo</w>
+                  <w xml:id="l133w9" ana="#aggl-s-unc">be</w>
+                  <w xml:id="l133w10">mà</w></l>
+               <l n="134" xml:id="l134">
+                  <w xml:id="l134w1" ana="#aggl-s">si</w>
+                  <w xml:id="l134w2">cobre</w>
+                  <w xml:id="l134w3">a<c ana="#lram-c">u</c>èr</w>
+                  <w xml:id="l134w4">lo</w>
+                  <w xml:id="l134w5">còr</w>
+                  <w xml:id="l134w6">a</w>
+                  <w xml:id="l134w7" ana="#encl">l</w>
+                  <w xml:id="l134w8">xristià</w></l>
+               <l n="135" xml:id="l135">
+                  <w xml:id="l135w1">qui</w>
+                  <lb/>
+                  <w xml:id="l135w2">tant</w>
+                  <w xml:id="l135w3" ana="#aggl-s">i</w>
+                  <w xml:id="l135w4">pessa</w>
+                  <w xml:id="l135w5">que</w>
+                  <w xml:id="l135w6">àl</w>
+                  <w xml:id="l135w7">no</w>
+                  <w xml:id="l135w8">farai</w>
+                  <w xml:id="l135w9"><c ana="#lram-c">i</c>a</w></l>
+               <l n="136" xml:id="l136">
+                  <w xml:id="l136w1">e</w>
+                  <w xml:id="l136w2">deu</w>
+                  <w xml:id="l136w3">no</w>
+                  <w xml:id="l136w4" ana="#encl">s</w>
+                  <w xml:id="l136w5">fia</w>
+                  <w xml:id="l136w6" ana="#aggl-s">ni</w>
+                  <w xml:id="l136w7">deus</w>
+                  <w xml:id="l136w8" ana="#aggl-s-unc">e</w>
+                  <w xml:id="l136w9">lùi</w>
+                  <lb/>
+                  <w xml:id="l136w10" ana="#aggl-s">e</w>
+                  <w xml:id="l136w11" ana="#aggl-s">no</w>
+                  <w xml:id="l136w12">mà</w></l>
+               <l n="137" xml:id="l137">
+                  <w xml:id="l137w1" ana="#aggl-s-unc">quan</w>
+                  <w xml:id="l137w2">se</w>
+                  <w xml:id="l137w3">reguarda</w>
+                  <w xml:id="l137w4">però</w>
+                  <w xml:id="l137w5">res</w>
+                  <w xml:id="l137w6">no</w>
+                  <w xml:id="l137w7" ana="#encl">l</w>
+                  <w xml:id="l137w8">rema</w></l>
+            </lg>
+         </div>
+         <div>
+            <lg n="21" xml:id="lg21">
+               <l n="138" xml:id="l138">
+                  <w xml:id="l138w1">Molt</w>
+                  <w xml:id="l138w2">fort</w>
+                  <w xml:id="l138w3">blasmaua</w>
+                  <lb/>
+                  <w xml:id="l138w4">boecis</w>
+                  <w xml:id="l138w5">sòs</w>
+                  <w xml:id="l138w6">amigs</w></l>
+               <l n="139" xml:id="l139">
+                  <w xml:id="l139w1" ana="#aggl-s-unc">qui</w>
+                  <w xml:id="l139w2">lui</w>
+                  <w xml:id="l139w3">laudàuen</w>
+                  <w xml:id="l139w4">derèer</w>
+                  <w xml:id="l139w5">euz</w>
+                  <lb/>
+                  <w xml:id="l139w6">dias</w>
+                  <w xml:id="l139w7">antìx</w></l>
+               <l n="140" xml:id="l140">
+                  <w xml:id="l140w1" ana="#elis">qu</w>
+                  <w xml:id="l140w2">el</w>
+                  <w xml:id="l140w3">era</w>
+                  <w xml:id="l140w4">com(p)s</w>
+                  <w xml:id="l140w5">molt</w>
+                  <w xml:id="l140w6">onraz</w>
+                  <w xml:id="l140w7" ana="#aggl-s">e</w>
+                  <w xml:id="l140w8">rix</w></l>
+               <l n="141" xml:id="l141">
+                  <w xml:id="l141w1">et</w>
+                  <w xml:id="l141w2">euers</w>
+                  <w xml:id="l141w3">deu</w>
+                  <w xml:id="l141w4">era</w>
+                  <lb/>
+                  <w xml:id="l141w5">tot</w>
+                  <w xml:id="l141w6">sos</w>
+                  <w xml:id="l141w7">afix</w></l>
+            </lg>
+
+            <lg n="22" xml:id="lg22">
+               <l n="142" xml:id="l142">
+                  <w xml:id="l142w1">molt</w>
+                  <w xml:id="l142w2">lo</w>
+                  <w xml:id="l142w3">lauda<c ana="#lram-c">u</c>en</w>
+                  <w xml:id="l142w4" ana="#aggl-s">e</w>
+                  <w xml:id="l142w5">amìc</w>
+                  <w xml:id="l142w6" ana="#aggl-s">e</w>
+                  <w xml:id="l142w7">parent</w></l>
+               <l n="143" xml:id="l143">
+                  <w xml:id="l143w1" ana="#elis">c</w>
+                  <w xml:id="l143w2">ab</w>
+                  <w xml:id="l143w3">damrideu</w>
+                  <lb/>
+                  <w xml:id="l143w4">se</w>
+                  <w xml:id="l143w5">tenia</w>
+                  <w xml:id="l143w6">forment</w></l>
+               <l n="144" xml:id="l144">
+                  <w xml:id="l144w1">pero</w>
+                  <w xml:id="l144w2">boecis</w>
+                  <w xml:id="l144w3">trastux</w>
+                  <w xml:id="l144w4">los</w>
+                  <w xml:id="l144w5" ana="#aggl-s-unc">en</w>
+                  <w xml:id="l144w6">desmènt</w></l>
+               <l n="145" xml:id="l145">
+                  <w xml:id="l145w1">no</w>
+                  <w xml:id="l145w2" ana="#elis">s</w>
+                  <w xml:id="l145w3">es</w>
+                  <w xml:id="l145w4">acsi</w>
+                  <w xml:id="l145w5">cu<expan corresp="#ab-tild-nas"><ex>m</ex></expan></w>
+                  <lb/>
+                  <w xml:id="l145w6">ana<c ana="#lram-c">u</c>en</w>
+                  <w xml:id="l145w7">dicent</w></l>
+               <l n="146" xml:id="l146">
+                  <w xml:id="l146w1">cel</w>
+                  <w xml:id="l146w2">non</w>
+                  <w xml:id="l146w3">es</w>
+                  <w xml:id="l146w4">bòs</w>
+                  <w xml:id="l146w5">que</w>
+                  <w xml:id="l146w6" ana="#aggl-s">a</w>
+                  <w xml:id="l146w7">frebla</w>
+                  <w xml:id="l146w8">scala</w>
+                  <w xml:id="l146w9" ana="#procl">s</w>
+                  <w xml:id="l146w10">tè</w></l>
+               <l n="147" xml:id="l147">
+                  <w xml:id="l147w1" ana="#aggl-s-unc">qui</w>
+                  <w xml:id="l147w2">tota</w>
+                  <w xml:id="l147w3">ora</w>
+                  <lb/>
+                  <w xml:id="l147w4">sempre</w>
+                  <w xml:id="l147w5"><c ana="#lram-c">u</c>ai</w>
+                  <w xml:id="l147w6">chaden</w></l>
+               <l n="148" xml:id="l148">
+                  <w xml:id="l148w1" ana="#degl">a<space type="#degl"/>quel</w>
+                  <w xml:id="l148w2">qui</w>
+                  <w xml:id="l148w3" ana="#elis">l</w>
+                  <w xml:id="l148w4">a</w>
+                  <w xml:id="l148w5">non</w>
+                  <w xml:id="l148w6">estai</w>
+                  <w xml:id="l148w7">fermament</w></l>
+               <l n="149" xml:id="l149">
+                  <w xml:id="l149w1" ana="#aggl-s">e</w>
+                  <w xml:id="l149w2">quals</w>
+                  <lb/>
+                  <w xml:id="l149w3">es</w>
+                  <w xml:id="l149w4" ana="#elis">l</w>
+                  <w xml:id="l149w5">om</w>
+                  <w xml:id="l149w6">qui</w>
+                  <w xml:id="l149w7" ana="#aggl-s">a</w>
+                  <w xml:id="l149w8">ferma</w>
+                  <w xml:id="l149w9">schala</w>
+                  <w xml:id="l149w10" ana="#encl #aggl-s">s</w>
+                  <w xml:id="l149w11">tè</w></l>
+               <l n="150" xml:id="l150">
+                  <w xml:id="l150w1">bos</w>
+                  <w xml:id="l150w2">xristias</w>
+                  <w xml:id="l150w3">qui</w>
+                  <w xml:id="l150w4">cre</w>
+                  <w xml:id="l150w5"><expan corresp="#ab-lm-pbarr-d"
+                     >p<ex>er</ex></expan>feitament</w></l>
+               <l n="151" xml:id="l151"><lb/>
+                  <w xml:id="l151w1">deu</w>
+                  <w xml:id="l151w2" ana="#aggl-s-unc">la</w>
+                  <w xml:id="l151w3">paterna</w>
+                  <w xml:id="l151w4" ana="#aggl-s">lo</w>
+                  <w xml:id="l151w5">rei</w>
+                  <w xml:id="l151w6">omnipotent</w></l>
+               <l n="152" xml:id="l152">
+                  <w xml:id="l152w1"><expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+                  <w xml:id="l152w2">en</w>
+                  <w xml:id="l152w3">ihu</w>
+                  <w xml:id="l152w4">que</w>
+                  <w xml:id="l152w5">ac</w>
+                  <w xml:id="l152w6" ana="#aggl-s">tàn</w>
+                  <w xml:id="l152w7">bo</w>
+                  <w xml:id="l152w8">talent</w></l>
+               <l n="153" xml:id="l153"><lb/>
+                  <w xml:id="l153w1">chi</w>
+                  <w xml:id="l153w2">nos</w>
+                  <w xml:id="l153w3">redèms</w>
+                  <w xml:id="l153w4" ana="#aggl-s">de</w>
+                  <w xml:id="l153w5">so</w>
+                  <w xml:id="l153w6">sang</w>
+                  <w xml:id="l153w7" ana="#degl">dolza<space type="#degl"/>ment</w></l>
+               <l n="154" xml:id="l154">
+                  <w xml:id="l154w1">e</w>
+                  <w xml:id="l154w2">scm</w>
+                  <w xml:id="l154w3">spm</w>
+                  <w xml:id="l154w4">qui</w>
+                  <w xml:id="l154w5" ana="#aggl-s">e</w>
+                  <w xml:id="l154w6">bos</w>
+                  <w xml:id="l154w7">omes</w>
+                  <lb/>
+                  <w xml:id="l154w8">desend</w></l>
+               <l n="155" xml:id="l155">
+                  <w xml:id="l155w1">que</w>
+                  <w xml:id="l155w2">que</w>
+                  <w xml:id="l155w3" ana="#encl">l</w>
+                  <w xml:id="l155w4">corps</w>
+                  <w xml:id="l155w5">faca</w>
+                  <w xml:id="l155w6">eu</w>
+                  <w xml:id="l155w7">li</w>
+                  <w xml:id="l155w8"><c ana="#lram-c">u</c>ai</w>
+                  <w xml:id="l155w9" ana="#elis">l</w>
+                  <w xml:id="l155w10">arma</w>
+                  <w xml:id="l155w11">dozèn</w></l>
+               <l n="156" xml:id="l156">
+                  <w xml:id="l156w1">bos</w>
+                  <w xml:id="l156w2">cristians</w>
+                  <lb/>
+                  <w xml:id="l156w3">qui</w>
+                  <w xml:id="l156w4" ana="#aggl-s">a</w>
+                  <w xml:id="l156w5">ital</w>
+                  <w xml:id="l156w6">eschala</w>
+                  <w xml:id="l156w7" ana="#procl">s</w>
+                  <w xml:id="l156w8">te</w></l>
+               <l n="157" xml:id="l157">
+                  <w xml:id="l157w1">cel</w>
+                  <w xml:id="l157w2">non</w>
+                  <w xml:id="l157w3">quaira</w>
+                  <w xml:id="l157w4"><c ana="#lram-c">i</c>a</w>
+                  <w xml:id="l157w5" ana="#aggl-s"><expan corresp="#ab-lm-pbarr-d"
+                        >p<ex>er</ex></expan></w>
+                  <w xml:id="l157w6">negu</w>
+                  <w xml:id="l157w7">torment</w></l>
+            </lg>
+         </div>
+         <div>
+            <lg n="23" xml:id="lg23">
+               <l n="158" xml:id="l158">
+                  <w xml:id="l158w1">Cu<expan corresp="#ab-tild-nas"><ex>m</ex></expan></w>
+                  <w xml:id="l158w2"><c ana="lram-c">i</c>àz</w>
+                  <lb/>
+                  <w xml:id="l158w3">boecis</w>
+                  <w xml:id="l158w4" ana="#aggl-s-unc">e</w>
+                  <w xml:id="l158w5">pèna</w>
+                  <w xml:id="l158w6">charceral</w></l>
+               <l n="159" xml:id="l159">
+                  <w xml:id="l159w1">plan</w>
+                  <w xml:id="l159w2">se</w>
+                  <w xml:id="l159w3" ana="#aggl-s">sos</w>
+                  <w xml:id="l159w4">dols</w>
+                  <w xml:id="l159w5" ana="#aggl-s">e</w>
+                  <w xml:id="l159w6">sos</w>
+                  <w xml:id="l159w7">menuz</w>
+                  <w xml:id="l159w8">pecaz</w></l>
+               <l n="160" xml:id="l160">
+                  <w xml:id="l160w1" ana="#elis">d</w>
+                  <w xml:id="l160w2">ùna</w>
+                  <lb/>
+                  <w xml:id="l160w3">donzèlla</w>
+                  <w xml:id="l160w4">fo</w>
+                  <w xml:id="l160w5">lainz</w>
+                  <w xml:id="l160w6"><c ana="lram-c">u</c>isitaz</w></l>
+               <l n="161" xml:id="l161">
+                  <w xml:id="l161w1">filla</w>
+                  <w xml:id="l161w2" ana="#encl">s</w>
+                  <w xml:id="l161w3">al</w>
+                  <w xml:id="l161w4">rei</w>
+                  <w xml:id="l161w5">qui</w>
+                  <w xml:id="l161w6">a</w>
+                  <w xml:id="l161w7">gran</w>
+                  <w xml:id="l161w8">poestat</w></l>
+               <l n="162" xml:id="l162">
+                  <w xml:id="l162w1" ana="#encl">ella</w>
+                  <w xml:id="l162w2">s</w>
+                  <lb/>
+                  <w xml:id="l162w3">ta</w>
+                  <w xml:id="l162w4">bella</w>
+                  <w xml:id="l162w5" ana="#aggl-s">reluz</w>
+                  <w xml:id="l162w6">ènt</w>
+                  <w xml:id="l162w7">lo</w>
+                  <w xml:id="l162w8">palaz</w></l>
+               <l n="163" xml:id="l163">
+                  <w xml:id="l163w1">lo</w>
+                  <w xml:id="l163w2">mas</w>
+                  <w xml:id="l163w3" ana="#aggl-s">o</w>
+                  <w xml:id="l163w4">ìntra</w>
+                  <w xml:id="l163w5">inz</w>
+                  <w xml:id="l163w6">es</w>
+                  <w xml:id="l163w7">granz</w>
+                  <w xml:id="l163w8">claritaz</w></l>
+               <lb/>
+               <l n="164" xml:id="l164">
+                  <w xml:id="l164w1"><c ana="lram-c">i</c>a</w>
+                  <w xml:id="l164w2">no</w>
+                  <w xml:id="l164w3">es</w>
+                  <w xml:id="l164w4">obs</w>
+                  <w xml:id="l164w5">fox</w>
+                  <w xml:id="l164w6" ana="#aggl-s">i</w>
+                  <w xml:id="l164w7">ssia</w>
+                  <w xml:id="l164w8">alumnaz</w></l>
+               <l n="165" xml:id="l165">
+                  <w xml:id="l165w1"><c ana="lram-c">u</c>eder</w>
+                  <w xml:id="l165w2">ent</w>
+                  <w xml:id="l165w3">pòt</w>
+                  <w xml:id="l165w4" ana="#elis">l</w>
+                  <w xml:id="l165w5">om</w>
+                  <w xml:id="l165w6"><expan corresp="#ab-lm-pbarr-d">p<ex>er</ex></expan></w>
+                  <w xml:id="l165w7">quaranta</w>
+                  <w xml:id="l165w8">ciptàz</w></l>
+               <lb/>
+               <l n="166" xml:id="l166">
+                  <w xml:id="l166w1">qual</w>
+                  <w xml:id="l166w2">ora</w>
+                  <w xml:id="l166w3" ana="#encl #aggl-s">s</w>
+                  <w xml:id="l166w4"><c ana="lram-c">u</c>ol</w>
+                  <w xml:id="l166w5">petita</w>
+                  <w xml:id="l166w6" ana="#encl">s</w>
+                  <w xml:id="l166w7">fai</w>
+                  <w xml:id="l166w8">asàz</w></l>
+               <l n="167" xml:id="l167">
+                  <w xml:id="l167w1">cu<expan corresp="#ab-tild-nas"><ex>m</ex></expan></w>
+                  <w xml:id="l167w2">ella</w>
+                  <w xml:id="l167w3" ana="#elis">s</w>
+                  <w xml:id="l167w4">auca</w>
+                  <w xml:id="l167w5">cel</w>
+                  <w xml:id="l167w6">a</w>
+                  <w xml:id="l167w7" ana="#aggl-s">del</w>
+                  <w xml:id="l167w8">cap</w>
+                  <w xml:id="l167w9">polsaz</w></l>
+               <lb/>
+               <l n="168" xml:id="l168">
+                  <w xml:id="l168w1">quant</w>
+                  <w xml:id="l168w2">be</w>
+                  <w xml:id="l168w3" ana="#aggl-s">se</w>
+                  <w xml:id="l168w4">dreca</w>
+                  <w xml:id="l168w5">lo</w>
+                  <w xml:id="l168w6">cel</w>
+                  <w xml:id="l168w7">a</w>
+                  <w xml:id="l168w8"><expan corresp="#ab-lm-pbarr-d"
+                  >p<ex>er</ex></expan>tusat</w></l>
+               <l n="169" xml:id="l169">
+                  <w xml:id="l169w1">è</w>
+                  <w xml:id="l169w2"><c ana="lram-c">u</c>e</w>
+                  <w xml:id="l169w3">lainz</w>
+                  <w xml:id="l169w4">tota</w>
+                  <w xml:id="l169w5">la</w>
+                  <w xml:id="l169w6">ma<c ana="lram-c">i</c>estat</w></l>
+            </lg>
+
+            <lg n="24" xml:id="lg24">
+               <lb/>
+               <l n="170" xml:id="l170">
+                  <w xml:id="l170w1">Bella</w>
+                  <w xml:id="l170w2" ana="#encl">s</w>
+                  <w xml:id="l170w3">la</w>
+                  <w xml:id="l170w4">domna</w>
+                  <w xml:id="l170w5">e</w>
+                  <w xml:id="l170w6" ana="#encl">l</w>
+                  <w xml:id="l170w7"><c ana="lram-c">u</c>ìs</w>
+                  <w xml:id="l170w8">a</w>
+                  <w xml:id="l170w9">tant</w>
+                  <w xml:id="l170w10">preclar</w></l>
+               <l n="171" xml:id="l171">
+                  <w xml:id="l171w1">da<c ana="lram-c">u</c>an</w>
+                  <w xml:id="l171w2" ana="#aggl-s">so</w>
+                  <w xml:id="l171w3"><c ana="lram-c">u</c>ìs</w>
+                  <w xml:id="l171w4">nulz</w>
+                  <w xml:id="l171w5">om</w>
+                  <w xml:id="l171w6">no</w>
+                  <w xml:id="l171w7" ana="#encl">s</w>
+                  <lb/>
+                  <w xml:id="l171w8">pot</w>
+                  <w xml:id="l171w9">celar</w></l>
+               <l n="172" xml:id="l172">
+                  <w xml:id="l172w1">ne</w>
+                  <w xml:id="l172w2">èps</w>
+                  <w xml:id="l172w3">li</w>
+                  <w xml:id="l172w4">omne</w>
+                  <w xml:id="l172w5">qui</w>
+                  <w xml:id="l172w6">sun</w>
+                  <w xml:id="l172w7">ultra</w>
+                  <w xml:id="l172w8" ana="#aggl-s-unc">la</w>
+                  <w xml:id="l172w9">màr</w></l>
+               <l n="173" xml:id="l173">
+                  <w xml:id="l173w1">no</w>
+                  <w xml:id="l173w2">potden</w>
+                  <w xml:id="l173w3">tàn(t)</w>
+                  <w xml:id="l173w4" ana="#aggl-s">e</w>
+                  <w xml:id="l173w5">lor</w>
+                  <pb n="274" xml:id="pg6"/><lb/>
+                  <w xml:id="l173w6">cors</w>
+                  <w xml:id="l173w7">cobeetàr</w></l>
+               <l n="174" xml:id="l174">
+                  <w xml:id="l174w1" ana="#elis">qu</w>
+                  <w xml:id="l174w2">ella</w>
+                  <w xml:id="l174w3" ana="#aggl-s">de</w>
+                  <w xml:id="l174w4">tot</w>
+                  <w xml:id="l174w5">no</w>
+                  <w xml:id="l174w6" ana="#aggl-s"><c ana="lram-c">u</c>ea</w>
+                  <w xml:id="l174w7">lor</w>
+                  <w xml:id="l174w8">pessar</w></l>
+               <l n="175" xml:id="l175">
+                  <w xml:id="l175w1">qui</w>
+                  <w xml:id="l175w2" ana="#aggl-s">e</w>
+                  <w xml:id="l175w3">leis</w>
+                  <w xml:id="l175w4">se</w>
+                  <w xml:id="l175w5">fia</w>
+                  <w xml:id="l175w6">morz</w>
+                  <w xml:id="l175w7">no</w>
+                  <w xml:id="l175w8" ana="#encl">l</w>
+                  <lb/>
+                  <w xml:id="l175w9">a</w>
+                  <w xml:id="l175w10">doptar</w></l>
+            </lg>
+
+            <lg n="25" xml:id="lg25">
+               <l n="176" xml:id="l176">
+                  <w xml:id="l176w1">Bella</w>
+                  <w xml:id="l176w2" ana="#encl">s</w>
+                  <w xml:id="l176w3">la</w>
+                  <w xml:id="l176w4">domna</w>
+                  <w xml:id="l176w5">mas</w>
+                  <w xml:id="l176w6">molt</w>
+                  <w xml:id="l176w7">es</w>
+                  <w xml:id="l176w8">de</w>
+                  <w xml:id="l176w9">logs</w>
+                  <w xml:id="l176w10">dias</w></l>
+               <l n="177" xml:id="l177">
+                  <w xml:id="l177w1">no</w>
+                  <w xml:id="l177w2" ana="#encl">s</w>
+                  <w xml:id="l177w3">pot</w>
+                  <w xml:id="l177w4">rascùndre</w>
+                  <lb/>
+                  <w xml:id="l177w5">nulz</w>
+                  <w xml:id="l177w6">om</w>
+                  <w xml:id="l177w7">denant</w>
+                  <w xml:id="l177w8" ana="#aggl-s">so</w>
+                  <w xml:id="l177w9"><c ana="lram-c">u</c>is</w></l>
+               <l n="178" xml:id="l178">
+                  <w xml:id="l178w1">hanc</w>
+                  <w xml:id="l178w2" ana="#aggl-s">no</w>
+                  <w xml:id="l178w3"><c ana="lram-c">u</c>ist</w>
+                  <w xml:id="l178w4">omne</w>
+                  <w xml:id="l178w5" ana="#aggl-s-unc">ta</w>
+                  <w xml:id="l178w6">grant</w>
+                  <w xml:id="l178w7">onor</w>
+                  <w xml:id="l178w8">agues</w></l>
+               <l n="179" xml:id="l179">
+                  <w xml:id="l179w1" ana="#elis">s</w>
+                  <w xml:id="l179w2">il</w>
+                  <w xml:id="l179w3">forfès</w>
+                  <w xml:id="l179w4">tan</w>
+                  <lb/>
+                  <w xml:id="l179w5">dont</w>
+                  <w xml:id="l179w6">ella</w>
+                  <w xml:id="l179w7" ana="#encl">s</w>
+                  <w xml:id="l179w8">rangurès</w></l>
+               <l n="180" xml:id="l180">
+                  <w xml:id="l180w1">sos</w>
+                  <w xml:id="l180w2">corps</w>
+                  <w xml:id="l180w3" ana="#aggl-s">ni</w>
+                  <w xml:id="l180w4" ana="#elis">s</w>
+                  <w xml:id="l180w5">anma</w>
+                  <w xml:id="l180w6">miga</w>
+                  <w xml:id="l180w7" ana="#aggl-s">per</w>
+                  <w xml:id="l180w8">(r)èn</w>
+                  <w xml:id="l180w9">guarìs</w></l>
+               <l n="181" xml:id="l181">
+                  <w xml:id="l181w1">quoras</w>
+                  <w xml:id="l181w2">que</w>
+                  <w xml:id="l181w3" ana="#encl">s</w>
+                  <lb/>
+                  <w xml:id="l181w4"><c ana="lram-c">u</c>ol</w>
+                  <w xml:id="l181w5" ana="#elis">s</w>
+                  <w xml:id="l181w6" ana="#aggl-s">en</w>
+                  <w xml:id="l181w7">à</w>
+                  <w xml:id="l181w8">lo</w>
+                  <w xml:id="l181w9">corps</w>
+                  <w xml:id="l181w10">aucìs</w></l>
+               <l n="182" xml:id="l182">
+                  <w xml:id="l182w1">e</w>
+                  <w xml:id="l182w2">pois</w>
+                  <w xml:id="l182w3">met</w>
+                  <w xml:id="l182w4" ana="#elis">l</w>
+                  <w xml:id="l182w5">arma</w>
+                  <w xml:id="l182w6" ana="#aggl-s">en</w>
+                  <w xml:id="l182w7">effèrn</w>
+                  <w xml:id="l182w8">e</w>
+                  <w xml:id="l182w9" ana="#encl">l</w>
+                  <w xml:id="l182w10">somsìs</w></l>
+               <l n="183" xml:id="l183">
+                  <w xml:id="l183w1">tal</w>
+                  <w xml:id="l183w2" ana="#aggl-s">li</w>
+                  <w xml:id="l183w3">comànda</w>
+                  <lb/>
+                  <w xml:id="l183w4">qui</w>
+                  <w xml:id="l183w5">tot</w>
+                  <w xml:id="l183w6">dias</w>
+                  <w xml:id="l183w7">la</w>
+                  <w xml:id="l183w8">brìs</w></l>
+               <l n="184" xml:id="l184">
+                  <w xml:id="l184w1">ella</w>
+                  <w xml:id="l184w2" ana="#encl">s</w>
+                  <w xml:id="l184w3">mèt</w>
+                  <w xml:id="l184w4">èss</w>
+                  <w xml:id="l184w5">ma</w>
+                  <w xml:id="l184w6">ten</w>
+                  <w xml:id="l184w7">(las)</w>
+                  <w xml:id="l184w8">claus</w>
+                  <w xml:id="l184w9" ana="#aggl-s">de</w>
+                  <w xml:id="l184w10">paradis</w></l>
+               <l n="185" xml:id="l185">
+                  <w xml:id="l185w1">quoras</w>
+                  <w xml:id="l185w2">que</w>
+                  <w xml:id="l185w3" ana="#encl">s</w>
+                  <lb/>
+                  <w xml:id="l185w4"><c ana="lram-c">u</c>ol</w>
+                  <w xml:id="l185w5">laìnz</w>
+                  <w xml:id="l185w6">còl</w>
+                  <w xml:id="l185w7">sos</w>
+                  <w xml:id="l185w8">amigs</w></l>
+            </lg>
+         </div>
+         <div>
+            <lg n="26" xml:id="lg26">
+               <l n="186" xml:id="l186">
+                  <w xml:id="l186w1">Bèl</w>
+                  <w xml:id="l186w2">sùn</w>
+                  <w xml:id="l186w3">si</w>
+                  <w xml:id="l186w4">drap</w>
+                  <w xml:id="l186w5">no</w>
+                  <w xml:id="l186w6">sài</w>
+                  <w xml:id="l186w7">nonar</w>
+                  <w xml:id="l186w8">lo(s)</w>
+                  <w xml:id="l186w9">fìl(s)</w></l>
+               <l n="187" xml:id="l187">
+                  <w xml:id="l187w1">mas</w>
+                  <w xml:id="l187w2">molt</w>
+                  <w xml:id="l187w3">molz</w>
+                  <w xml:id="l187w4">pfo<lb break="no"/>ren</w>
+                  <w xml:id="l187w5">de</w>
+                  <w xml:id="l187w6">bòn</w>
+                  <w xml:id="l187w7">e</w>
+                  <w xml:id="l187w8">de</w>
+                  <w xml:id="l187w9">sobtìl</w></l>
+               <l n="188" xml:id="l188">
+                  <w xml:id="l188w1">ella</w>
+                  <w xml:id="l188w2">se</w>
+                  <w xml:id="l188w3">fèz</w>
+                  <w xml:id="l188w4">anz</w>
+                  <w xml:id="l188w5">auìa</w>
+                  <w xml:id="l188w6">plus</w>
+                  <w xml:id="l188w7">de</w>
+                  <w xml:id="l188w8">mil</w></l>
+               <l n="189" xml:id="l189">
+                  <w xml:id="l189w1">tàn</w>
+                  <w xml:id="l189w2">no</w>
+                  <w xml:id="l189w3">son</w>
+                  <w xml:id="l189w4">uèl</w>
+                  <w xml:id="l189w5">mìga</w>
+                  <lb/>
+                  <w xml:id="l189w6">lòr</w>
+                  <w xml:id="l189w7">prèz</w>
+                  <w xml:id="l189w8">auìl</w></l>
+            </lg>
+
+            <lg n="27" xml:id="lg27">
+               <l n="190" xml:id="l190">
+                  <w xml:id="l190w1">Ella</w>
+                  <w xml:id="l190w2">medesma</w>
+                  <w xml:id="l190w3">teisET</w>
+                  <w xml:id="l190w4">so</w>
+                  <w xml:id="l190w5">uestimènt</w></l>
+               <l n="191" xml:id="l191">
+                  <w xml:id="l191w1">que</w>
+                  <w xml:id="l191w2">negus</w>
+                  <w xml:id="l191w3">òm</w>
+                  <w xml:id="l191w4">no</w>
+                  <w xml:id="l191w5">pòt</w>
+                  <w xml:id="l191w6">desfar</w>
+                  <lb/>
+                  <w xml:id="l191w7">neienz</w></l>
+               <l n="192" xml:id="l192">
+                  <w xml:id="l192w1">pur</w>
+                  <w xml:id="l192w2">l</w>
+                  <w xml:id="l192w3">una</w>
+                  <w xml:id="l192w4">fremna</w>
+                  <w xml:id="l192w5">qui</w>
+                  <w xml:id="l192w6">uert</w>
+                  <w xml:id="l192w7">la</w>
+                  <w xml:id="l192w8">terra</w>
+                  <w xml:id="l192w9">pent</w></l>
+               <l n="193" xml:id="l193">
+                  <w xml:id="l193w1">no</w>
+                  <w xml:id="l193w2">comprari</w>
+                  <w xml:id="l193w3">om</w>
+                  <w xml:id="l193w4">ab</w>
+                  <w xml:id="l193w5">mìl</w>
+                  <lb/>
+                  <w xml:id="l193w6">liuras</w>
+                  <w xml:id="l193w7">d</w>
+                  <w xml:id="l193w8">argènt</w></l>
+               <l n="194" xml:id="l194">
+                  <w xml:id="l194w1">ella</w>
+                  <w xml:id="l194w2">ab</w>
+                  <w xml:id="l194w3">boeci</w>
+                  <w xml:id="l194w4">parlèt</w>
+                  <w xml:id="l194w5">ta</w>
+                  <w xml:id="l194w6">dolzament</w></l>
+               <l n="195" xml:id="l195">
+                  <w xml:id="l195w1">molt</w>
+                  <w xml:id="l195w2">me</w>
+                  <w xml:id="l195w3">derramen</w>
+                  <lb/>
+                  <w xml:id="l195w4">donzellèt</w>
+                  <w xml:id="l195w5">de</w>
+                  <w xml:id="l195w6">iouent</w></l>
+               <l n="196" xml:id="l196">
+                  <w xml:id="l196w1">que</w>
+                  <w xml:id="l196w2">zo</w>
+                  <w xml:id="l196w3">esperen</w>
+                  <w xml:id="l196w4">q</w>
+                  <w xml:id="l196w5">faza</w>
+                  <w xml:id="l196w6">a</w>
+                  <w xml:id="l196w7">lor</w>
+                  <w xml:id="l196w8">talèn</w></l>
+               <l n="197" xml:id="l197">
+                  <w xml:id="l197w1">primas</w>
+                  <w xml:id="l197w2">me</w>
+                  <w xml:id="l197w3">àmen</w>
+                  <w xml:id="l197w4">pois</w>
+                  <w xml:id="l197w5">me</w>
+                  <lb/>
+                  <w xml:id="l197w6">uan</w>
+                  <w xml:id="l197w7">aissent</w></l>
+               <l n="198" xml:id="l198">
+                  <w xml:id="l198w1">la</w>
+                  <w xml:id="l198w2">mi</w>
+                  <w xml:id="l198w3">amor</w>
+                  <w xml:id="l198w4">ta</w>
+                  <w xml:id="l198w5">mal</w>
+                  <w xml:id="l198w6">uan</w>
+                  <w xml:id="l198w7">deperdèn</w></l>
+            </lg>
+
+            <lg n="28" xml:id="lg28">
+               <l n="199" xml:id="l199">
+                  <w xml:id="l199w1">Bèlla</w>
+                  <w xml:id="l199w2">sun</w>
+                  <w xml:id="l199w3">li</w>
+                  <w xml:id="l199w4">drap</w>
+                  <w xml:id="l199w5">que</w>
+                  <w xml:id="l199w6">la</w>
+                  <lb/>
+                  <w xml:id="l199w7">domna</w>
+                  <w xml:id="l199w8">uestìt</w></l>
+               <l n="200" xml:id="l200">
+                  <w xml:id="l200w1">de</w>
+                  <w xml:id="l200w2">caritat</w>
+                  <w xml:id="l200w3">e</w>
+                  <w xml:id="l200w4">de</w>
+                  <w xml:id="l200w5">fe</w>
+                  <w xml:id="l200w6">sun</w>
+                  <w xml:id="l200w7">bastìt</w></l>
+               <l n="201" xml:id="l201">
+                  <w xml:id="l201w1">il</w>
+                  <w xml:id="l201w2">sun</w>
+                  <w xml:id="l201w3">ta</w>
+                  <w xml:id="l201w4">bèl</w>
+                  <w xml:id="l201w5">e</w>
+                  <w xml:id="l201w6">ta</w>
+                  <w xml:id="l201w7">blànc</w>
+                  <w xml:id="l201w8">e</w>
+                  <w xml:id="l201w9">ta</w>
+                  <w xml:id="l201w10">quandi</w></l>
+               <lb/>
+               <l n="202" xml:id="l202">
+                  <w xml:id="l202w1">tan(t)</w>
+                  <w xml:id="l202w2">a</w>
+                  <w xml:id="l202w3">boecis</w>
+                  <w xml:id="l202w4">lo</w>
+                  <w xml:id="l202w5">uis</w>
+                  <w xml:id="l202w6">esuanuit</w></l>
+               <l n="203" xml:id="l203">
+                  <w xml:id="l203w1">que</w>
+                  <w xml:id="l203w2">el</w>
+                  <w xml:id="l203w3">zo</w>
+                  <w xml:id="l203w4">pensa</w>
+                  <w xml:id="l203w5">uèl</w>
+                  <w xml:id="l203w6">sien</w>
+                  <w xml:id="l203w7">amosit</w></l>
+            </lg>
+
+            <lg n="29" xml:id="lg29">
+               <l n="204" xml:id="l204">
+                  <w xml:id="l204w1">El</w>
+                  <w xml:id="l204w2">uestiment</w>
+                  <lb/>
+                  <w xml:id="l204w3">en</w>
+                  <w xml:id="l204w4">lor</w>
+                  <w xml:id="l204w5">qui</w>
+                  <w xml:id="l204w6">es</w>
+                  <w xml:id="l204w7">reprès</w></l>
+               <l n="205" xml:id="l205">
+                  <w xml:id="l205w1">de</w>
+                  <w xml:id="l205w2">sòz</w>
+                  <w xml:id="l205w3">auia</w>
+                  <w xml:id="l205w4">escript</w>
+                  <w xml:id="l205w5">ù</w>
+                  <w xml:id="l205w6">pei</w>
+                  <w xml:id="l205w7">(pi greco)</w>
+                  <w xml:id="l205w8">grezèsc</w></l>
+               <l n="206" xml:id="l206">
+                  <w xml:id="l206w1">zo</w>
+                  <w xml:id="l206w2">signifiga</w>
+                  <w xml:id="l206w3">la</w>
+                  <w xml:id="l206w4">uita</w>
+                  <lb/>
+                  <w xml:id="l206w5">qui</w>
+                  <w xml:id="l206w6">en</w>
+                  <w xml:id="l206w7">ter</w>
+                  <w xml:id="l206w8">es</w></l>
+               <l n="207" xml:id="l207">
+                  <w xml:id="l207w1">sobre</w>
+                  <w xml:id="l207w2">la</w>
+                  <w xml:id="l207w3">schàpla</w>
+                  <w xml:id="l207w4">escript</w>
+                  <w xml:id="l207w5">auia</w>
+                  <w xml:id="l207w6">ù</w>
+                  <w xml:id="l207w7">tei</w>
+                  <w xml:id="l207w8">(simbolo)</w>
+                  <w xml:id="l207w9">grezesc</w></l>
+               <l n="208" xml:id="l208">
+                  <w xml:id="l208w1">zo</w>
+                  <w xml:id="l208w2">signifiga</w>
+                  <lb/>
+                  <w xml:id="l208w3">de</w>
+                  <w xml:id="l208w4">cèl</w>
+                  <w xml:id="l208w5">la</w>
+                  <w xml:id="l208w6">dreita</w>
+                  <w xml:id="l208w7">lèi</w></l>
+            </lg>
+
+            <lg n="30" xml:id="lg30">
+               <l n="209" xml:id="l209">
+                  <w xml:id="l209w1">Antr</w>
+                  <w xml:id="l209w2">ellas</w>
+                  <w xml:id="l209w3">doas</w>
+                  <w xml:id="l209w4">depent</w>
+                  <w xml:id="l209w5">sun</w>
+                  <w xml:id="l209w6">l</w>
+                  <w xml:id="l209w7">eschalò</w></l>
+               <l n="210" xml:id="l210">
+                  <w xml:id="l210w1">d</w>
+                  <w xml:id="l210w2">aur</w>
+                  <w xml:id="l210w3">no</w>
+                  <w xml:id="l210w4">sun</w>
+                  <w xml:id="l210w5">gès</w><lb/>
+                  <w xml:id="l210w6">mas</w>
+                  <w xml:id="l210w7">nuallor</w>
+                  <w xml:id="l210w8">no</w>
+                  <w xml:id="l210w9">sun</w></l>
+               <l n="211" xml:id="l211">
+                  <w xml:id="l211w1">p</w>
+                  <w xml:id="l211w2">aqui</w>
+                  <w xml:id="l211w3">monten</w>
+                  <w xml:id="l211w4">cent</w>
+                  <w xml:id="l211w5">miri</w>
+                  <w xml:id="l211w6">auzello</w></l>
+               <l n="212" xml:id="l212">
+                  <w xml:id="l212w1">alquant</w>
+                  <w xml:id="l212w2">s</w>
+                  <w xml:id="l212w3">en</w>
+                  <w xml:id="l212w4">tòrnen</w>
+                  <lb/>
+                  <w xml:id="l212w5">aual</w>
+                  <w xml:id="l212w6">arreuso</w></l>
+            </lg>
+
+            <lg n="31" xml:id="lg31">
+               <l n="213" xml:id="l213">
+                  <w xml:id="l213w1">mas</w>
+                  <w xml:id="l213w2">cil</w>
+                  <w xml:id="l213w3">qui</w>
+                  <w xml:id="l213w4">poden</w>
+                  <w xml:id="l213w5">montar</w>
+                  <w xml:id="l213w6">ab</w>
+                  <w xml:id="l213w7">(simbolo)</w>
+                  <w xml:id="l213w8">al</w>
+                  <w xml:id="l213w9">cor</w></l>
+               <l n="214" xml:id="l214">
+                  <w xml:id="l214w1">en</w>
+                  <w xml:id="l214w2">epsa</w>
+                  <lb/>
+                  <w xml:id="l214w3">l</w>
+                  <w xml:id="l214w4">ora</w>
+                  <w xml:id="l214w5">se</w>
+                  <w xml:id="l214w6">sun</w>
+                  <w xml:id="l214w7">d</w>
+                  <w xml:id="l214w8">altra</w>
+                  <w xml:id="l214w9">color</w></l>
+               <l n="215" xml:id="l215">
+                  <w xml:id="l215w1">ab</w>
+                  <w xml:id="l215w2">la</w>
+                  <w xml:id="l215w3">donzella</w>
+                  <w xml:id="l215w4">pois</w>
+                  <w xml:id="l215w5">an</w>
+                  <w xml:id="l215w6">molt</w>
+                  <w xml:id="l215w7">gran</w>
+                  <w xml:id="l215w8">amor</w></l>
+            </lg>
+         </div>
+         <div>
+            <lg n="32" xml:id="lg32">
+               <l n="216" xml:id="l216">
+                  <w xml:id="l216w1">Cals</w><pb n="175" xml:id="pg7"/><lb/>
+                  <w xml:id="l216w2">es</w>
+                  <w xml:id="l216w3">la</w>
+                  <w xml:id="l216w4">schala</w>
+                  <w xml:id="l216w5">de</w>
+                  <w xml:id="l216w6">que</w>
+                  <w xml:id="l216w7">sun</w>
+                  <w xml:id="l216w8">li</w>
+                  <w xml:id="l216w9">degra</w></l>
+               <l n="217" xml:id="l217">
+                  <w xml:id="l217w1">fait</w>
+                  <w xml:id="l217w2">sun</w>
+                  <w xml:id="l217w3">d</w>
+                  <w xml:id="l217w4">almosna</w>
+                  <w xml:id="l217w5">e</w>
+                  <w xml:id="l217w6">fè</w>
+                  <w xml:id="l217w7">e</w>
+                  <w xml:id="l217w8">caritàt</w></l>
+               <l n="218" xml:id="l218">
+                  <w xml:id="l218w1">contra</w>
+                  <lb/>
+                  <w xml:id="l218w2">felnia</w>
+                  <w xml:id="l218w3">sunt</w>
+                  <w xml:id="l218w4">fait</w>
+                  <w xml:id="l218w5">de</w>
+                  <w xml:id="l218w6">gran</w>
+                  <w xml:id="l218w7">bontat</w></l>
+               <l n="219" xml:id="l219">
+                  <w xml:id="l219w1">contra</w>
+                  <w xml:id="l219w2">peiùri</w>
+                  <w xml:id="l219w3">de</w>
+                  <w xml:id="l219w4">bona</w>
+                  <w xml:id="l219w5">feeltat</w></l>
+               <lb/>
+               <l n="220" xml:id="l220">
+                  <w xml:id="l220w1">Contr</w>
+                  <w xml:id="l220w2">auaricia</w>
+                  <w xml:id="l220w3">sun</w>
+                  <w xml:id="l220w4">fai(t)</w>
+                  <w xml:id="l220w5">de</w>
+                  <w xml:id="l220w6">largetàt</w></l>
+               <l n="221" xml:id="l221">
+                  <w xml:id="l221w1">contra</w>
+                  <w xml:id="l221w2">tristicia</w>
+                  <w xml:id="l221w3">s(unt)</w>
+                  <w xml:id="l221w4">fait</w>
+                  <w xml:id="l221w5">d</w>
+                  <w xml:id="l221w6">alegretat</w></l>
+               <lb/>
+               <l n="222" xml:id="l222">
+                  <w xml:id="l222w1">Contra</w>
+                  <w xml:id="l222w2">menzònga</w>
+                  <w xml:id="l222w3">s(unt)</w>
+                  <w xml:id="l222w4">fait</w>
+                  <w xml:id="l222w5">de</w>
+                  <w xml:id="l222w6">ueritat</w></l>
+               <l n="223" xml:id="l223">
+                  <w xml:id="l223w1">contra</w>
+                  <w xml:id="l223w2">lucxuria</w>
+                  <w xml:id="l223w3">s(unt)</w>
+                  <w xml:id="l223w4">fait</w>
+                  <w xml:id="l223w5">de</w>
+                  <w xml:id="l223w6">castitat</w></l>
+               <lb/>
+               <l n="224" xml:id="l224">
+                  <w xml:id="l224w1">Contra</w>
+                  <w xml:id="l224w2">supbia</w>
+                  <w xml:id="l224w3">s</w>
+                  <w xml:id="l224w4">fait</w>
+                  <w xml:id="l224w5">d</w>
+                  <w xml:id="l224w6">umilitat</w></l>
+               <l n="225" xml:id="l225">
+                  <w xml:id="l225w1">quascus</w>
+                  <w xml:id="l225w2">bos</w>
+                  <w xml:id="l225w3">om</w>
+                  <w xml:id="l225w4">si</w>
+                  <w xml:id="l225w5">fài</w>
+                  <w xml:id="l225w6">lo</w>
+                  <w xml:id="l225w7">so</w>
+                  <w xml:id="l225w8">degra</w></l>
+               <l n="226" xml:id="l226">
+                  <w xml:id="l226w1">cal</w>
+                  <w xml:id="l226w2">sun</w>
+                  <lb/>
+                  <w xml:id="l226w3">li</w>
+                  <w xml:id="l226w4">auzil</w>
+                  <w xml:id="l226w5">qui</w>
+                  <w xml:id="l226w6">sun</w>
+                  <w xml:id="l226w7">a</w>
+                  <w xml:id="l226w8">l</w>
+                  <w xml:id="l226w9">tei</w>
+                  <w xml:id="l226w10">montat</w></l>
+               <l n="227" xml:id="l227">
+                  <w xml:id="l227w1">quì</w>
+                  <w xml:id="l227w2">e</w>
+                  <w xml:id="l227w3">la</w>
+                  <w xml:id="l227w4">schàla</w>
+                  <w xml:id="l227w5">ta</w>
+                  <w xml:id="l227w6">ben</w>
+                  <w xml:id="l227w7">àn</w>
+                  <w xml:id="l227w8">lor</w>
+                  <w xml:id="l227w9">degras</w></l>
+               <l n="228" xml:id="l228">
+                  <w xml:id="l228w1">zò</w>
+                  <w xml:id="l228w2">sun</w>
+                  <lb/>
+                  <w xml:id="l228w3">bon</w>
+                  <w xml:id="l228w4">òmne</w>
+                  <w xml:id="l228w5">qui</w>
+                  <w xml:id="l228w6">an</w>
+                  <w xml:id="l228w7">redems</w>
+                  <w xml:id="l228w8">lor</w>
+                  <w xml:id="l228w9">peccaz</w></l>
+               <l n="229" xml:id="l229">
+                  <w xml:id="l229w1">qui</w>
+                  <w xml:id="l229w2">tan</w>
+                  <w xml:id="l229w3">se</w>
+                  <w xml:id="l229w4">fien</w>
+                  <w xml:id="l229w5">e</w>
+                  <w xml:id="l229w6">sca</w>
+                  <w xml:id="l229w7">trinitat</w></l>
+               <l n="230" xml:id="l230">
+                  <w xml:id="l230w1">d</w>
+                  <w xml:id="l230w2">onòr</w>
+                  <lb/>
+                  <w xml:id="l230w3">terrestri</w>
+                  <w xml:id="l230w4">non</w>
+                  <w xml:id="l230w5">an</w>
+                  <w xml:id="l230w6">gràn</w>
+                  <w xml:id="l230w7">cobeetat</w></l>
+            </lg>
+
+            <lg n="33" xml:id="lg33">
+               <l n="231" xml:id="l231">
+                  <w xml:id="l231w1">Cal</w>
+                  <w xml:id="l231w2">an</w>
+                  <w xml:id="l231w3">li</w>
+                  <w xml:id="l231w4">auzil</w>
+                  <w xml:id="l231w5">signifaciò</w></l>
+               <l n="232" xml:id="l232">
+                  <w xml:id="l232w1">qui</w>
+                  <w xml:id="l232w2">de</w>
+                  <w xml:id="l232w3">la</w>
+                  <w xml:id="l232w4">schala</w>
+                  <lb/>
+                  <w xml:id="l232w5">tornen</w>
+                  <w xml:id="l232w6">arreusò</w></l>
+               <l n="233" xml:id="l233">
+                  <w xml:id="l233w1">zo</w>
+                  <w xml:id="l233w2">sun</w>
+                  <w xml:id="l233w3">tùit</w>
+                  <w xml:id="l233w4">omne</w>
+                  <w xml:id="l233w5">qui</w>
+                  <w xml:id="l233w6">de</w>
+                  <w xml:id="l233w7">iouen</w>
+                  <w xml:id="l233w8">sun</w>
+                  <w xml:id="l233w9">bò</w></l>
+               <l n="234" xml:id="l234">
+                  <w xml:id="l234w1">de</w>
+                  <w xml:id="l234w2">sapiencia</w>
+                  <w xml:id="l234w3">qui</w>
+                  <lb/>
+                  <w xml:id="l234w4">comencen</w>
+                  <w xml:id="l234w5">razò</w></l>
+               <l n="235" xml:id="l235">
+                  <w xml:id="l235w1">e</w>
+                  <w xml:id="l235w2">cu</w>
+                  <w xml:id="l235w3">sun</w>
+                  <w xml:id="l235w4">uell</w>
+                  <w xml:id="l235w5">esdeuenen</w>
+                  <w xml:id="l235w6">fellò</w></l>
+               <l n="236" xml:id="l236">
+                  <w xml:id="l236w1">e</w>
+                  <w xml:id="l236w2">fan</w>
+                  <w xml:id="l236w3">piuris</w>
+                  <w xml:id="l236w4">e</w>
+                  <w xml:id="l236w5">granz</w>
+                  <w xml:id="l236w6">traicios</w></l>
+               <lb/>
+               <l n="237" xml:id="l237">
+                  <w xml:id="l237w1">cu</w>
+                  <w xml:id="l237w2">poisas</w>
+                  <w xml:id="l237w3">cuida</w>
+                  <w xml:id="l237w4">montar</w>
+                  <w xml:id="l237w5">p</w>
+                  <w xml:id="l237w6">le</w>
+                  <w xml:id="l237w7">schalo</w></l>
+               <l n="238" xml:id="l238">
+                  <w xml:id="l238w1">cerqua</w>
+                  <w xml:id="l238w2">que</w>
+                  <w xml:id="l238w3">cerca</w>
+                  <w xml:id="l238w4">non</w>
+                  <w xml:id="l238w5">uà</w>
+                  <w xml:id="l238w6">miga</w>
+                  <w xml:id="l238w7">del</w>
+                  <w xml:id="l238w8">so</w></l>
+               <lb/>
+               <l n="239" xml:id="l239">
+                  <w xml:id="l239w1">uèn</w>
+                  <w xml:id="l239w2">lo</w>
+                  <w xml:id="l239w3">diables</w>
+                  <w xml:id="l239w4">qui</w>
+                  <w xml:id="l239w5">guarda</w>
+                  <w xml:id="l239w6">l</w>
+                  <w xml:id="l239w7">baratro</w></l>
+               <l n="240" xml:id="l240">
+                  <w xml:id="l240w1">uen</w>
+                  <w xml:id="l240w2">acorren</w>
+                  <w xml:id="l240w3">si</w>
+                  <w xml:id="l240w4">l</w>
+                  <w xml:id="l240w5">pren</w>
+                  <w xml:id="l240w6">p</w>
+                  <w xml:id="l240w7">lo</w>
+                  <w xml:id="l240w8">talò</w></l>
+               <l n="241" xml:id="l241">
+                  <w xml:id="l241w1">fai</w>
+                  <lb/>
+                  <w xml:id="l241w2">l</w>
+                  <w xml:id="l241w3">acupàr</w>
+                  <w xml:id="l241w4">a</w>
+                  <w xml:id="l241w5">guisa</w>
+                  <w xml:id="l241w6">de</w>
+                  <w xml:id="l241w7">lairo</w></l>
+               <l n="242" xml:id="l242">
+                  <w xml:id="l242w1">fai</w>
+                  <w xml:id="l242w2">l</w>
+                  <w xml:id="l242w3">aparer</w>
+                  <w xml:id="l242w4">de</w>
+                  <w xml:id="l242w5">tòt</w>
+                  <w xml:id="l242w6">no</w>
+                  <w xml:id="l242w7">l</w>
+                  <w xml:id="l242w8">troba</w>
+                  <w xml:id="l242w9">bò</w></l>
+            </lg>
+         </div>
+
+         <div>
+            <lg n="34" xml:id="lg34">
+               <l n="243" xml:id="l243">
+                  <w xml:id="l243w1">Bella</w>
+                  <w xml:id="l243w2">s</w>
+                  <w xml:id="l243w3">la</w>
+                  <lb/>
+                  <w xml:id="l243w4">domna</w>
+                  <w xml:id="l243w5">e</w>
+                  <w xml:id="l243w6">granz</w>
+                  <w xml:id="l243w7">p</w>
+                  <w xml:id="l243w8">cosedenz</w></l>
+               <l n="244" xml:id="l244">
+                  <w xml:id="l244w1">no</w>
+                  <w xml:id="l244w2">uist</w>
+                  <w xml:id="l244w3">donzella</w>
+                  <w xml:id="l244w4">de</w>
+                  <w xml:id="l244w5">so</w>
+                  <w xml:id="l244w6">euaiment</w></l>
+               <l n="245" xml:id="l245">
+                  <w xml:id="l245w1">ella</w>
+                  <w xml:id="l245w2">s</w>
+                  <lb/>
+                  <w xml:id="l245w3">ardida</w>
+                  <w xml:id="l245w4">si</w>
+                  <w xml:id="l245w5">s</w>
+                  <w xml:id="l245w6">foren</w>
+                  <w xml:id="l245w7">soi</w>
+                  <w xml:id="l245w8">parent</w></l>
+               <l n="246" xml:id="l246">
+                  <w xml:id="l246w1">è</w>
+                  <w xml:id="l246w2">sa</w>
+                  <w xml:id="l246w3">ma</w>
+                  <w xml:id="l246w4">dèxtra</w>
+                  <w xml:id="l246w5">la</w>
+                  <w xml:id="l246w6">domna</w>
+                  <w xml:id="l246w7">ù</w>
+                  <w xml:id="l246w8">libre</w>
+                  <w xml:id="l246w9">tè</w></l>
+               <l n="247" xml:id="l247">
+                  <w xml:id="l247w1">tòz</w>
+                  <lb/>
+                  <w xml:id="l247w2">aquel</w>
+                  <w xml:id="l247w3">libres</w>
+                  <w xml:id="l247w4">era</w>
+                  <w xml:id="l247w5">de</w>
+                  <w xml:id="l247w6">fog</w>
+                  <w xml:id="l247w7">ardenz</w></l>
+               <l n="248" xml:id="l248">
+                  <w xml:id="l248w1">zo</w>
+                  <w xml:id="l248w2">s</w>
+                  <w xml:id="l248w3">la</w>
+                  <w xml:id="l248w4">iusticia</w>
+                  <w xml:id="l248w5">a</w>
+                  <w xml:id="l248w6">l</w>
+                  <w xml:id="l248w7">rèi</w>
+                  <w xml:id="l248w8">omnipotent</w></l>
+               <lb/>
+               <l n="249" xml:id="l249">
+                  <w xml:id="l249w1">si</w>
+                  <w xml:id="l249w2">l</w>
+                  <w xml:id="l249w3">om</w>
+                  <w xml:id="l249w4">o</w>
+                  <w xml:id="l249w5">forfài</w>
+                  <w xml:id="l249w6">e</w>
+                  <w xml:id="l249w7">pois</w>
+                  <w xml:id="l249w8">no</w>
+                  <w xml:id="l249w9">se</w>
+                  <w xml:id="l249w10">n</w>
+                  <w xml:id="l249w11">repen</w></l>
+               <l n="250" xml:id="l250">
+                  <w xml:id="l250w1">ET</w>
+                  <w xml:id="l250w2">euers</w>
+                  <w xml:id="l250w3">deu</w>
+                  <w xml:id="l250w4">non</w>
+                  <w xml:id="l250w5">faza</w>
+                  <w xml:id="l250w6">mendament</w></l>
+               <lb/>
+               <l n="251" xml:id="l251">
+                  <w xml:id="l251w1">quora</w>
+                  <w xml:id="l251w2">que</w>
+                  <w xml:id="l251w3">s</w>
+                  <w xml:id="l251w4">uol</w>
+                  <w xml:id="l251w5">ab</w>
+                  <w xml:id="l251w6">aquel</w>
+                  <w xml:id="l251w7">fog</w>
+                  <w xml:id="l251w8">l</w>
+                  <w xml:id="l251w9">encent</w></l>
+               <l n="252" xml:id="l252">
+                  <w xml:id="l252w1">ab</w>
+                  <w xml:id="l252w2">aquel</w>
+                  <w xml:id="l252w3">fog</w>
+                  <w xml:id="l252w4">s</w>
+                  <w xml:id="l252w5">en</w>
+                  <w xml:id="l252w6">prèn</w>
+                  <w xml:id="l252w7">so</w>
+                  <w xml:id="l252w8">uenga<lb break="no"/>ment</w></l>
+               <l n="253" xml:id="l253">
+                  <w xml:id="l253w1">cel</w>
+                  <w xml:id="l253w2">bona</w>
+                  <w xml:id="l253w3">i</w>
+                  <w xml:id="l253w4">uai</w>
+                  <w xml:id="l253w5">qui</w>
+                  <w xml:id="l253w6">amor</w>
+                  <w xml:id="l253w7">ab</w>
+                  <w xml:id="l253w8">lei</w>
+                  <w xml:id="l253w9">pren</w></l>
+               <l n="254" xml:id="l254">
+                  <w xml:id="l254w1">qui</w>
+                  <w xml:id="l254w2">be</w>
+                  <w xml:id="l254w3">la</w>
+                  <w xml:id="l254w4">àma</w>
+                  <w xml:id="l254w5">e</w>
+                  <w xml:id="l254w6">p</w>
+                  <w xml:id="l254w7">bonta(t)</w>
+                  <lb/>
+                  <w xml:id="l254w8">la</w>
+                  <w xml:id="l254w9">te</w></l>
+               <l n="255" xml:id="l255">
+                  <w xml:id="l255w1">quan</w>
+                  <w xml:id="l255w2">se</w>
+                  <w xml:id="l255w3">reguarda</w>
+                  <w xml:id="l255w4">be</w>
+                  <w xml:id="l255w5">bo</w>
+                  <w xml:id="l255w6">merite</w>
+                  <w xml:id="l255w7">l</w>
+                  <w xml:id="l255w8">en</w>
+                  <w xml:id="l255w9">rent</w></l>
+            </lg>
+
+            <lg n="35" xml:id="lg35">
+               <l n="256" xml:id="l256">
+                  <w xml:id="l256w1">El</w>
+                  <w xml:id="l256w2">ma</w>
+                  <lb/>
+                  <w xml:id="l256w3">senestre</w>
+                  <w xml:id="l256w4">tèn</w>
+                  <w xml:id="l256w5">ù</w>
+                  <w xml:id="l256w6">sceptru</w>
+                  <w xml:id="l256w7">reial</w></l>
+               <l n="257" xml:id="l257">
+                  <w xml:id="l257w1">zo</w>
+                  <w xml:id="l257w2">signifiga</w>
+                  <w xml:id="l257w3">iustici</w>
+                  <w xml:id="l257w4">corporal</w></l>
+               <l n="258" xml:id="l258">
+                  <w xml:id="l258w1">de</w>
+                  <w xml:id="l258w2">pec</w></l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
